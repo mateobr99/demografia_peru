@@ -1,0 +1,1875 @@
+,Ubigeo,Departamento,Provincia,Distrito
+0,10101,Amazonas,Chachapoyas,Chachapoyas
+57,10102,Amazonas,Chachapoyas,Asunción
+111,10103,Amazonas,Chachapoyas,Balsas
+168,10104,Amazonas,Chachapoyas,Cheto
+224,10105,Amazonas,Chachapoyas,Chiliquin
+278,10106,Amazonas,Chachapoyas,Chuquibamba
+335,10107,Amazonas,Chachapoyas,Granada
+391,10108,Amazonas,Chachapoyas,Huancas
+446,10109,Amazonas,Chachapoyas,La Jalca
+503,10110,Amazonas,Chachapoyas,Leimebamba
+560,10111,Amazonas,Chachapoyas,Levanto
+617,10112,Amazonas,Chachapoyas,Magdalena
+674,10113,Amazonas,Chachapoyas,Mariscal Castilla
+731,10114,Amazonas,Chachapoyas,Molinopampa
+787,10115,Amazonas,Chachapoyas,Montevideo
+843,10116,Amazonas,Chachapoyas,Olleros
+895,10117,Amazonas,Chachapoyas,Quinjalca
+949,10118,Amazonas,Chachapoyas,San Francisco de Daguas
+1005,10119,Amazonas,Chachapoyas,San Isidro de Maino
+1061,10120,Amazonas,Chachapoyas,Soloco
+1118,10121,Amazonas,Chachapoyas,Sonche
+1174,10201,Amazonas,Bagua,Bagua
+1231,10202,Amazonas,Bagua,Aramango
+1288,10203,Amazonas,Bagua,Copallin
+1345,10204,Amazonas,Bagua,El Parco
+1402,10205,Amazonas,Bagua,Imaza
+1459,10206,Amazonas,Bagua,La Peca
+1516,10301,Amazonas,Bongara,Jumbilla
+1572,10302,Amazonas,Bongara,Chisquilla
+1625,10303,Amazonas,Bongara,Churuja
+1682,10304,Amazonas,Bongara,Corosha
+1738,10305,Amazonas,Bongara,Cuispes
+1794,10306,Amazonas,Bongara,Florida
+1851,10307,Amazonas,Bongara,Jazan
+1908,10308,Amazonas,Bongara,Recta
+1962,10309,Amazonas,Bongara,San Carlos
+2018,10310,Amazonas,Bongara,Shipasbamba
+2075,10311,Amazonas,Bongara,Valera
+2132,10312,Amazonas,Bongara,Yambrasbamba
+2189,10401,Amazonas,Condorcanqui,Nieva
+2246,10402,Amazonas,Condorcanqui,El Cenepa
+2302,10403,Amazonas,Condorcanqui,Rio Santiago
+2358,10501,Amazonas,Luya,Lamud
+2415,10502,Amazonas,Luya,Camporredondo
+2472,10503,Amazonas,Luya,Cocabamba
+2529,10504,Amazonas,Luya,Colcamar
+2586,10505,Amazonas,Luya,Conila
+2643,10506,Amazonas,Luya,Inguilpata
+2700,10507,Amazonas,Luya,Longuita
+2757,10508,Amazonas,Luya,Lonya Chico
+2814,10509,Amazonas,Luya,Luya
+2871,10510,Amazonas,Luya,Luya Viejo
+2925,10511,Amazonas,Luya,María
+2982,10512,Amazonas,Luya,Ocalli
+3039,10513,Amazonas,Luya,Ocumal
+3096,10514,Amazonas,Luya,Pisuquia
+3153,10515,Amazonas,Luya,Providencia
+3209,10516,Amazonas,Luya,San Cristobal
+3265,10517,Amazonas,Luya,San Francisco del Yeso
+3322,10518,Amazonas,Luya,San Jerónimo
+3378,10519,Amazonas,Luya,San Juan de Lopecancha
+3432,10520,Amazonas,Luya,Santa Catalina
+3488,10521,Amazonas,Luya,Santo Tomas
+3545,10522,Amazonas,Luya,Tingo
+3602,10523,Amazonas,Luya,Trita
+3659,10601,Amazonas,Rodríguez de Mendoza,San Nicolás
+3716,10602,Amazonas,Rodríguez de Mendoza,Chirimoto
+3773,10603,Amazonas,Rodríguez de Mendoza,Cochamal
+3830,10604,Amazonas,Rodríguez de Mendoza,Huambo
+3887,10605,Amazonas,Rodríguez de Mendoza,Limabamba
+3944,10606,Amazonas,Rodríguez de Mendoza,Longar
+4001,10607,Amazonas,Rodríguez de Mendoza,Mariscal Benavides
+4058,10608,Amazonas,Rodríguez de Mendoza,Milpuc
+4115,10609,Amazonas,Rodríguez de Mendoza,Omia
+4172,10610,Amazonas,Rodríguez de Mendoza,Santa Rosa
+4229,10611,Amazonas,Rodríguez de Mendoza,Totora
+4286,10612,Amazonas,Rodríguez de Mendoza,Vista Alegre
+4343,10701,Amazonas,Utcubamba,Bagua Grande
+4400,10702,Amazonas,Utcubamba,Cajaruro
+4457,10703,Amazonas,Utcubamba,Cumba
+4514,10704,Amazonas,Utcubamba,El Milagro
+4570,10705,Amazonas,Utcubamba,Jamalca
+4627,10706,Amazonas,Utcubamba,Lonya Grande
+4684,10707,Amazonas,Utcubamba,Yamon
+4740,20101,Áncash,Huaraz,Huaraz
+4797,20102,Áncash,Huaraz,Cochabamba
+4854,20103,Áncash,Huaraz,Colcabamba
+4911,20104,Áncash,Huaraz,Huanchay
+4968,20105,Áncash,Huaraz,Independencia
+5025,20106,Áncash,Huaraz,Jangas
+5082,20107,Áncash,Huaraz,La Libertad
+5139,20108,Áncash,Huaraz,Olleros
+5196,20109,Áncash,Huaraz,Pampas Grande
+5253,20110,Áncash,Huaraz,Pariacoto
+5310,20111,Áncash,Huaraz,Pira
+5367,20112,Áncash,Huaraz,Tarica
+5424,20201,Áncash,Aija,Aija
+5481,20202,Áncash,Aija,Coris
+5538,20203,Áncash,Aija,Huacllan
+5594,20204,Áncash,Aija,La Merced
+5651,20205,Áncash,Aija,Succha
+5708,20301,Áncash,Antonio Raymondi,Llamellin
+5765,20302,Áncash,Antonio Raymondi,Aczo
+5822,20303,Áncash,Antonio Raymondi,Chaccho
+5878,20304,Áncash,Antonio Raymondi,Chingas
+5935,20305,Áncash,Antonio Raymondi,Mirgas
+5992,20306,Áncash,Antonio Raymondi,San Juan de Rontoy
+6049,20401,Áncash,Asunción,Chacas
+6106,20402,Áncash,Asunción,Acochaca
+6163,20501,Áncash,Bolognesi,Chiquian
+6220,20502,Áncash,Bolognesi,Abelardo Pardo Lezameta
+6275,20503,Áncash,Bolognesi,Antonio Raymondi
+6331,20504,Áncash,Bolognesi,Aquia
+6388,20505,Áncash,Bolognesi,Cajacay
+6444,20506,Áncash,Bolognesi,Canis
+6500,20507,Áncash,Bolognesi,Colquioc
+6557,20508,Áncash,Bolognesi,Huallanca
+6614,20509,Áncash,Bolognesi,Huasta
+6671,20510,Áncash,Bolognesi,Huayllacayan
+6728,20511,Áncash,Bolognesi,La Primavera
+6782,20512,Áncash,Bolognesi,Mangas
+6835,20513,Áncash,Bolognesi,Pacllon
+6892,20514,Áncash,Bolognesi,San Miguel de Corpanqui
+6948,20515,Áncash,Bolognesi,Ticllos
+7005,20601,Áncash,Carhuaz,Carhuaz
+7062,20602,Áncash,Carhuaz,Acopampa
+7119,20603,Áncash,Carhuaz,Amashca
+7176,20604,Áncash,Carhuaz,Anta
+7232,20605,Áncash,Carhuaz,Ataquero
+7289,20606,Áncash,Carhuaz,Marcara
+7346,20607,Áncash,Carhuaz,Pariahuanca
+7402,20608,Áncash,Carhuaz,San Miguel de Aco
+7459,20609,Áncash,Carhuaz,Shilla
+7515,20610,Áncash,Carhuaz,Tinco
+7572,20611,Áncash,Carhuaz,Yungar
+7629,20701,Áncash,Carlos Fermín Fitzcarrald,San Luis
+7686,20702,Áncash,Carlos Fermín Fitzcarrald,San Nicolás
+7743,20703,Áncash,Carlos Fermín Fitzcarrald,Yauya
+7800,20801,Áncash,Casma,Casma
+7857,20802,Áncash,Casma,Buena Vista Alta
+7914,20803,Áncash,Casma,Comandante Noel
+7971,20804,Áncash,Casma,Yautan
+8028,20901,Áncash,Corongo,Corongo
+8085,20902,Áncash,Corongo,Aco
+8141,20903,Áncash,Corongo,Bambas
+8198,20904,Áncash,Corongo,Cusca
+8255,20905,Áncash,Corongo,La Pampa
+8311,20906,Áncash,Corongo,Yanac
+8368,20907,Áncash,Corongo,Yupan
+8425,21001,Áncash,Huari,Huari
+8482,21002,Áncash,Huari,Anra
+8539,21003,Áncash,Huari,Cajay
+8596,21004,Áncash,Huari,Chavin de Huantar
+8653,21005,Áncash,Huari,Huacachi
+8710,21006,Áncash,Huari,Huacchis
+8766,21007,Áncash,Huari,Huachis
+8823,21008,Áncash,Huari,Huantar
+8880,21009,Áncash,Huari,Masin
+8937,21010,Áncash,Huari,Paucas
+8994,21011,Áncash,Huari,Ponto
+9051,21012,Áncash,Huari,Rahuapampa
+9108,21013,Áncash,Huari,Rapayan
+9164,21014,Áncash,Huari,San Marcos
+9221,21015,Áncash,Huari,San Pedro de Chana
+9277,21016,Áncash,Huari,Uco
+9333,21101,Áncash,Huarmey,Huarmey
+9390,21102,Áncash,Huarmey,Cochapeti
+9447,21103,Áncash,Huarmey,Culebras
+9504,21104,Áncash,Huarmey,Huayan
+9561,21105,Áncash,Huarmey,Malvas
+9618,21201,Áncash,Huaylas,Caraz
+9675,21202,Áncash,Huaylas,Huallanca
+9732,21203,Áncash,Huaylas,Huata
+9789,21204,Áncash,Huaylas,Huaylas
+9846,21205,Áncash,Huaylas,Mato
+9903,21206,Áncash,Huaylas,Pamparomas
+9960,21207,Áncash,Huaylas,Pueblo Libre
+10017,21208,Áncash,Huaylas,Santa Cruz
+10074,21209,Áncash,Huaylas,Santo Toribio
+10131,21210,Áncash,Huaylas,Yuracmarca
+10188,21301,Áncash,Mariscal Luzuriaga,Piscobamba
+10245,21302,Áncash,Mariscal Luzuriaga,Casca
+10302,21303,Áncash,Mariscal Luzuriaga,Eleazar Guzmán Barron
+10358,21304,Áncash,Mariscal Luzuriaga,Fidel Olivas Escudero
+10415,21305,Áncash,Mariscal Luzuriaga,Llama
+10471,21306,Áncash,Mariscal Luzuriaga,Llumpa
+10528,21307,Áncash,Mariscal Luzuriaga,Lucma
+10584,21308,Áncash,Mariscal Luzuriaga,Musga
+10641,21401,Áncash,Ocros,Ocros
+10698,21402,Áncash,Ocros,Acas
+10753,21403,Áncash,Ocros,Cajamarquilla
+10809,21404,Áncash,Ocros,Carhuapampa
+10865,21405,Áncash,Ocros,Cochas
+10922,21406,Áncash,Ocros,Congas
+10979,21407,Áncash,Ocros,Llipa
+11035,21408,Áncash,Ocros,San Cristóbal de Rajan
+11091,21409,Áncash,Ocros,San Pedro
+11148,21410,Áncash,Ocros,Santiago de Chilcas
+11205,21501,Áncash,Pallasca,Cabana
+11262,21502,Áncash,Pallasca,Bolognesi
+11319,21503,Áncash,Pallasca,Conchucos
+11376,21504,Áncash,Pallasca,Huacaschuque
+11432,21505,Áncash,Pallasca,Huandoval
+11488,21506,Áncash,Pallasca,Lacabamba
+11545,21507,Áncash,Pallasca,Llapo
+11601,21508,Áncash,Pallasca,Pallasca
+11658,21509,Áncash,Pallasca,Pampas
+11714,21510,Áncash,Pallasca,Santa Rosa
+11770,21511,Áncash,Pallasca,Tauca
+11827,21601,Áncash,Pomabamba,Pomabamba
+11884,21602,Áncash,Pomabamba,Huayllan
+11941,21603,Áncash,Pomabamba,Parobamba
+11998,21604,Áncash,Pomabamba,Quinuabamba
+12055,21701,Áncash,Recuay,Recuay
+12112,21702,Áncash,Recuay,Catac
+12169,21703,Áncash,Recuay,Cotaparaco
+12226,21704,Áncash,Recuay,Huayllapampa
+12283,21705,Áncash,Recuay,Llacllin
+12340,21706,Áncash,Recuay,Marca
+12397,21707,Áncash,Recuay,Pampas Chico
+12454,21708,Áncash,Recuay,Pararin
+12511,21709,Áncash,Recuay,Tapacocha
+12567,21710,Áncash,Recuay,Ticapampa
+12624,21801,Áncash,Santa,Chimbote
+12681,21802,Áncash,Santa,Cáceres del Perú
+12738,21803,Áncash,Santa,Coishco
+12795,21804,Áncash,Santa,Macate
+12852,21805,Áncash,Santa,Moro
+12909,21806,Áncash,Santa,Nepeña
+12966,21807,Áncash,Santa,Samanco
+13023,21808,Áncash,Santa,Santa
+13080,21809,Áncash,Santa,Nuevo Chimbote
+13137,21901,Áncash,Sihuas,Sihuas
+13194,21902,Áncash,Sihuas,Acobamba
+13251,21903,Áncash,Sihuas,Alfonso Ugarte
+13308,21904,Áncash,Sihuas,Cashapampa
+13365,21905,Áncash,Sihuas,Chingalpo
+13421,21906,Áncash,Sihuas,Huayllabamba
+13478,21907,Áncash,Sihuas,Quiches
+13535,21908,Áncash,Sihuas,Ragash
+13592,21909,Áncash,Sihuas,San Juan
+13649,21910,Áncash,Sihuas,Sicsibamba
+13706,22001,Áncash,Yungay,Yungay
+13763,22002,Áncash,Yungay,Cascapara
+13820,22003,Áncash,Yungay,Mancos
+13877,22004,Áncash,Yungay,Matacoto
+13934,22005,Áncash,Yungay,Quillo
+13991,22006,Áncash,Yungay,Ranrahirca
+14048,22007,Áncash,Yungay,Shupluy
+14104,22008,Áncash,Yungay,Yanama
+14161,30101,Apurímac,Abancay,Abancay
+14218,30102,Apurímac,Abancay,Chacoche
+14275,30103,Apurímac,Abancay,Circa
+14332,30104,Apurímac,Abancay,Curahuasi
+14389,30105,Apurímac,Abancay,Huanipaca
+14446,30106,Apurímac,Abancay,Lambrama
+14503,30107,Apurímac,Abancay,Pichirhua
+14560,30108,Apurímac,Abancay,San Pedro de Cachora
+14617,30109,Apurímac,Abancay,Tamburco
+14674,30201,Apurímac,Andahuaylas,Andahuaylas
+14731,30202,Apurímac,Andahuaylas,Andarapa
+14788,30203,Apurímac,Andahuaylas,Chiara
+14845,30204,Apurímac,Andahuaylas,Huancarama
+14902,30205,Apurímac,Andahuaylas,Huancaray
+14959,30206,Apurímac,Andahuaylas,Huayana
+15016,30207,Apurímac,Andahuaylas,Kishuara
+15073,30208,Apurímac,Andahuaylas,Pacobamba
+15130,30209,Apurímac,Andahuaylas,Pacucha
+15187,30210,Apurímac,Andahuaylas,Pampachiri
+15244,30211,Apurímac,Andahuaylas,Pomacocha
+15301,30212,Apurímac,Andahuaylas,San Antonio de Cachi
+15358,30213,Apurímac,Andahuaylas,San Jerónimo
+15415,30214,Apurímac,Andahuaylas,San Miguel de Chaccrampa
+15471,30215,Apurímac,Andahuaylas,Santa María de Chicmo
+15528,30216,Apurímac,Andahuaylas,Talavera
+15585,30217,Apurímac,Andahuaylas,Tumay Huaraca
+15642,30218,Apurímac,Andahuaylas,Turpo
+15699,30219,Apurímac,Andahuaylas,Kaquiabamba
+15756,30220,Apurímac,Andahuaylas,José María Arguedas
+15813,30301,Apurímac,Antabamba,Antabamba
+15870,30302,Apurímac,Antabamba,El Oro
+15925,30303,Apurímac,Antabamba,Huaquirca
+15981,30304,Apurímac,Antabamba,Juan Espinoza Medrano
+16037,30305,Apurímac,Antabamba,Oropesa
+16094,30306,Apurímac,Antabamba,Pachaconas
+16150,30307,Apurímac,Antabamba,Sabaino
+16207,30401,Apurímac,Aymaraes,Chalhuanca
+16264,30402,Apurímac,Aymaraes,Capaya
+16317,30403,Apurímac,Aymaraes,Caraybamba
+16374,30404,Apurímac,Aymaraes,Chapimarca
+16431,30405,Apurímac,Aymaraes,Colcabamba
+16488,30406,Apurímac,Aymaraes,Cotaruse
+16545,30407,Apurímac,Aymaraes,Ihuayllo
+16601,30408,Apurímac,Aymaraes,Justo Apu Sahuaraura
+16657,30409,Apurímac,Aymaraes,Lucre
+16714,30410,Apurímac,Aymaraes,Pocohuanca
+16770,30411,Apurímac,Aymaraes,San Juan de Chacña
+16826,30412,Apurímac,Aymaraes,Sañayca
+16883,30413,Apurímac,Aymaraes,Soraya
+16939,30414,Apurímac,Aymaraes,Tapairihua
+16996,30415,Apurímac,Aymaraes,Tintay
+17053,30416,Apurímac,Aymaraes,Toraya
+17110,30417,Apurímac,Aymaraes,Yanaca
+17167,30501,Apurímac,Cotabambas,Tambobamba
+17224,30502,Apurímac,Cotabambas,Cotabambas
+17281,30503,Apurímac,Cotabambas,Coyllurqui
+17338,30504,Apurímac,Cotabambas,Haquira
+17395,30505,Apurímac,Cotabambas,Mara
+17452,30506,Apurímac,Cotabambas,Challhuahuacho
+17509,30601,Apurímac,Chincheros,Chincheros
+17566,30602,Apurímac,Chincheros,Anco_Huallo
+17623,30603,Apurímac,Chincheros,Cocharcas
+17680,30604,Apurímac,Chincheros,Huaccana
+17737,30605,Apurímac,Chincheros,Ocobamba
+17794,30606,Apurímac,Chincheros,Ongoy
+17851,30607,Apurímac,Chincheros,Uranmarca
+17908,30608,Apurímac,Chincheros,Ranracancha
+17965,30609,Apurímac,Chincheros,Rocchacc
+18022,30610,Apurímac,Chincheros,El Porvenir
+18079,30611,Apurímac,Chincheros,Los Chankas
+18136,30701,Apurímac,Grau,Chuquibambilla
+18193,30702,Apurímac,Grau,Curpahuasi
+18250,30703,Apurímac,Grau,Gamarra
+18307,30704,Apurímac,Grau,Huayllati
+18363,30705,Apurímac,Grau,Mamara
+18420,30706,Apurímac,Grau,Micaela Bastidas
+18476,30707,Apurímac,Grau,Pataypampa
+18533,30708,Apurímac,Grau,Progreso
+18590,30709,Apurímac,Grau,San Antonio
+18644,30710,Apurímac,Grau,Santa Rosa
+18701,30711,Apurímac,Grau,Turpay
+18758,30712,Apurímac,Grau,Vilcabamba
+18815,30713,Apurímac,Grau,Virundo
+18872,30714,Apurímac,Grau,Curasco
+18929,40101,Arequipa,Arequipa,Arequipa
+18986,40102,Arequipa,Arequipa,Alto Selva Alegre
+19043,40103,Arequipa,Arequipa,Cayma
+19100,40104,Arequipa,Arequipa,Cerro Colorado
+19157,40105,Arequipa,Arequipa,Characato
+19214,40106,Arequipa,Arequipa,Chiguata
+19270,40107,Arequipa,Arequipa,Jacobo Hunter
+19327,40108,Arequipa,Arequipa,La Joya
+19384,40109,Arequipa,Arequipa,Mariano Melgar
+19441,40110,Arequipa,Arequipa,Miraflores
+19498,40111,Arequipa,Arequipa,Mollebaya
+19555,40112,Arequipa,Arequipa,Paucarpata
+19612,40113,Arequipa,Arequipa,Pocsi
+19668,40114,Arequipa,Arequipa,Polobaya
+19725,40115,Arequipa,Arequipa,Quequeña
+19782,40116,Arequipa,Arequipa,Sabandia
+19839,40117,Arequipa,Arequipa,Sachaca
+19896,40118,Arequipa,Arequipa,San Juan de Siguas
+19952,40119,Arequipa,Arequipa,San Juan de Tarucani
+20009,40120,Arequipa,Arequipa,Santa Isabel de Siguas
+20065,40121,Arequipa,Arequipa,Santa Rita de Siguas
+20121,40122,Arequipa,Arequipa,Socabaya
+20178,40123,Arequipa,Arequipa,Tiabaya
+20235,40124,Arequipa,Arequipa,Uchumayo
+20292,40125,Arequipa,Arequipa,Vitor
+20349,40126,Arequipa,Arequipa,Yanahuara
+20406,40127,Arequipa,Arequipa,Yarabamba
+20463,40128,Arequipa,Arequipa,Yura
+20520,40129,Arequipa,Arequipa,José Luis Bustamante Y Rivero
+20577,40201,Arequipa,Camaná,Camaná
+20634,40202,Arequipa,Camaná,José María Quimper
+20691,40203,Arequipa,Camaná,Mariano Nicolás Valcárcel
+20747,40204,Arequipa,Camaná,Mariscal Cáceres
+20804,40205,Arequipa,Camaná,Nicolás de Pierola
+20861,40206,Arequipa,Camaná,Ocoña
+20918,40207,Arequipa,Camaná,Quilca
+20975,40208,Arequipa,Camaná,Samuel Pastor
+21032,40301,Arequipa,Caravelí,Caravelí
+21089,40302,Arequipa,Caravelí,Acarí
+21146,40303,Arequipa,Caravelí,Atico
+21203,40304,Arequipa,Caravelí,Atiquipa
+21259,40305,Arequipa,Caravelí,Bella Unión
+21316,40306,Arequipa,Caravelí,Cahuacho
+21373,40307,Arequipa,Caravelí,Chala
+21430,40308,Arequipa,Caravelí,Chaparra
+21487,40309,Arequipa,Caravelí,Huanuhuanu
+21543,40310,Arequipa,Caravelí,Jaqui
+21600,40311,Arequipa,Caravelí,Lomas
+21654,40312,Arequipa,Caravelí,Quicacha
+21711,40313,Arequipa,Caravelí,Yauca
+21768,40401,Arequipa,Castilla,Aplao
+21825,40402,Arequipa,Castilla,Andagua
+21882,40403,Arequipa,Castilla,Ayo
+21936,40404,Arequipa,Castilla,Chachas
+21993,40405,Arequipa,Castilla,Chilcaymarca
+22050,40406,Arequipa,Castilla,Choco
+22107,40407,Arequipa,Castilla,Huancarqui
+22164,40408,Arequipa,Castilla,Machaguay
+22221,40409,Arequipa,Castilla,Orcopampa
+22278,40410,Arequipa,Castilla,Pampacolca
+22335,40411,Arequipa,Castilla,Tipan
+22392,40412,Arequipa,Castilla,Uñon
+22447,40413,Arequipa,Castilla,Uraca
+22504,40414,Arequipa,Castilla,Viraco
+22561,40501,Arequipa,Caylloma,Chivay
+22618,40502,Arequipa,Caylloma,Achoma
+22674,40503,Arequipa,Caylloma,Cabanaconde
+22731,40504,Arequipa,Caylloma,Callalli
+22787,40505,Arequipa,Caylloma,Caylloma
+22843,40506,Arequipa,Caylloma,Coporaque
+22899,40507,Arequipa,Caylloma,Huambo
+22956,40508,Arequipa,Caylloma,Huanca
+23013,40509,Arequipa,Caylloma,Ichupampa
+23069,40510,Arequipa,Caylloma,Lari
+23125,40511,Arequipa,Caylloma,Lluta
+23182,40512,Arequipa,Caylloma,Maca
+23238,40513,Arequipa,Caylloma,Madrigal
+23295,40514,Arequipa,Caylloma,San Antonio de Chuca
+23351,40515,Arequipa,Caylloma,Sibayo
+23405,40516,Arequipa,Caylloma,Tapay
+23461,40517,Arequipa,Caylloma,Tisco
+23517,40518,Arequipa,Caylloma,Tuti
+23571,40519,Arequipa,Caylloma,Yanque
+23628,40520,Arequipa,Caylloma,Majes
+23685,40601,Arequipa,Condesuyos,Chuquibamba
+23742,40602,Arequipa,Condesuyos,Andaray
+23799,40603,Arequipa,Condesuyos,Cayarani
+23856,40604,Arequipa,Condesuyos,Chichas
+23913,40605,Arequipa,Condesuyos,Iray
+23970,40606,Arequipa,Condesuyos,Río Grande
+24027,40607,Arequipa,Condesuyos,Salamanca
+24084,40608,Arequipa,Condesuyos,Yanaquihua
+24141,40701,Arequipa,Islay,Mollendo
+24198,40702,Arequipa,Islay,Cocachacra
+24255,40703,Arequipa,Islay,Dean Valdivia
+24312,40704,Arequipa,Islay,Islay
+24368,40705,Arequipa,Islay,Mejia
+24425,40706,Arequipa,Islay,Punta de Bombón
+24482,40801,Arequipa,La Unión,Cotahuasi
+24539,40802,Arequipa,La Unión,Alca
+24596,40803,Arequipa,La Unión,Charcana
+24653,40804,Arequipa,La Unión,Huaynacotas
+24710,40805,Arequipa,La Unión,Pampamarca
+24766,40806,Arequipa,La Unión,Puyca
+24822,40807,Arequipa,La Unión,Quechualla
+24878,40808,Arequipa,La Unión,Sayla
+24934,40809,Arequipa,La Unión,Tauria
+24989,40810,Arequipa,La Unión,Tomepampa
+25046,40811,Arequipa,La Unión,Toro
+25103,50101,Ayacucho,Huamanga,Ayacucho
+25160,50102,Ayacucho,Huamanga,Acocro
+25217,50103,Ayacucho,Huamanga,Acos Vinchos
+25274,50104,Ayacucho,Huamanga,Carmen Alto
+25331,50105,Ayacucho,Huamanga,Chiara
+25388,50106,Ayacucho,Huamanga,Ocros
+25445,50107,Ayacucho,Huamanga,Pacaycasa
+25502,50108,Ayacucho,Huamanga,Quinua
+25559,50109,Ayacucho,Huamanga,San José de Ticllas
+25616,50110,Ayacucho,Huamanga,San Juan Bautista
+25673,50111,Ayacucho,Huamanga,Santiago de Pischa
+25730,50112,Ayacucho,Huamanga,Socos
+25787,50113,Ayacucho,Huamanga,Tambillo
+25844,50114,Ayacucho,Huamanga,Vinchos
+25901,50115,Ayacucho,Huamanga,Jesús Nazareno
+25958,50116,Ayacucho,Huamanga,Andrés Avelino Cáceres Dorregaray
+26015,50201,Ayacucho,Cangallo,Cangallo
+26072,50202,Ayacucho,Cangallo,Chuschi
+26129,50203,Ayacucho,Cangallo,Los Morochucos
+26186,50204,Ayacucho,Cangallo,María Parado de Bellido
+26242,50205,Ayacucho,Cangallo,Paras
+26298,50206,Ayacucho,Cangallo,Totos
+26355,50301,Ayacucho,Huanca Sancos,Sancos
+26412,50302,Ayacucho,Huanca Sancos,Carapo
+26469,50303,Ayacucho,Huanca Sancos,Sacsamarca
+26526,50304,Ayacucho,Huanca Sancos,Santiago de Lucanamarca
+26582,50401,Ayacucho,Huanta,Huanta
+26639,50402,Ayacucho,Huanta,Ayahuanco
+26695,50403,Ayacucho,Huanta,Huamanguilla
+26752,50404,Ayacucho,Huanta,Iguain
+26809,50405,Ayacucho,Huanta,Luricocha
+26866,50406,Ayacucho,Huanta,Santillana
+26923,50407,Ayacucho,Huanta,Sivia
+26979,50408,Ayacucho,Huanta,Llochegua
+27035,50409,Ayacucho,Huanta,Canayre
+27091,50410,Ayacucho,Huanta,Uchuraccay
+27147,50411,Ayacucho,Huanta,Pucacolpa
+27203,50412,Ayacucho,Huanta,Chaca
+27258,50501,Ayacucho,La Mar,San Miguel
+27315,50502,Ayacucho,La Mar,Anco
+27372,50503,Ayacucho,La Mar,Ayna
+27428,50504,Ayacucho,La Mar,Chilcas
+27485,50505,Ayacucho,La Mar,Chungui
+27541,50506,Ayacucho,La Mar,Luis Carranza
+27598,50507,Ayacucho,La Mar,Santa Rosa
+27655,50508,Ayacucho,La Mar,Tambo
+27712,50509,Ayacucho,La Mar,Samugari
+27768,50510,Ayacucho,La Mar,Anchihuay
+27824,50511,Ayacucho,La Mar,Oronccoy
+27877,50601,Ayacucho,Lucanas,Puquio
+27934,50602,Ayacucho,Lucanas,Aucara
+27991,50603,Ayacucho,Lucanas,Cabana
+28048,50604,Ayacucho,Lucanas,Carmen Salcedo
+28105,50605,Ayacucho,Lucanas,Chaviña
+28162,50606,Ayacucho,Lucanas,Chipao
+28219,50607,Ayacucho,Lucanas,Huac-Huas
+28276,50608,Ayacucho,Lucanas,Laramate
+28333,50609,Ayacucho,Lucanas,Leoncio Prado
+28390,50610,Ayacucho,Lucanas,Llauta
+28446,50611,Ayacucho,Lucanas,Lucanas
+28503,50612,Ayacucho,Lucanas,Ocaña
+28560,50613,Ayacucho,Lucanas,Otoca
+28617,50614,Ayacucho,Lucanas,Saisa
+28674,50615,Ayacucho,Lucanas,San Cristobal
+28731,50616,Ayacucho,Lucanas,San Juan
+28788,50617,Ayacucho,Lucanas,San Pedro
+28845,50618,Ayacucho,Lucanas,San Pedro de Palco
+28902,50619,Ayacucho,Lucanas,Sancos
+28959,50620,Ayacucho,Lucanas,Santa Ana de HuaycAHUACHO
+29016,50621,Ayacucho,Lucanas,Santa Lucia
+29073,50701,Ayacucho,Parinacochas,Coracora
+29130,50702,Ayacucho,Parinacochas,Chumpi
+29187,50703,Ayacucho,Parinacochas,Coronel Castañeda
+29241,50704,Ayacucho,Parinacochas,Pacapausa
+29295,50705,Ayacucho,Parinacochas,Pullo
+29352,50706,Ayacucho,Parinacochas,Puyusca
+29409,50707,Ayacucho,Parinacochas,San Francisco de Ravacayco
+29463,50708,Ayacucho,Parinacochas,Upahuacho
+29519,50801,Ayacucho,Páucar del Sara Sara,Pausa
+29576,50802,Ayacucho,Páucar del Sara Sara,Colta
+29632,50803,Ayacucho,Páucar del Sara Sara,Corculla
+29688,50804,Ayacucho,Páucar del Sara Sara,Lampa
+29745,50805,Ayacucho,Páucar del Sara Sara,Marcabamba
+29802,50806,Ayacucho,Páucar del Sara Sara,Oyolo
+29858,50807,Ayacucho,Páucar del Sara Sara,Pararca
+29915,50808,Ayacucho,Páucar del Sara Sara,San Javier de Alpabamba
+29972,50809,Ayacucho,Páucar del Sara Sara,San José de Ushua
+30025,50810,Ayacucho,Páucar del Sara Sara,Sara Sara
+30082,50901,Ayacucho,Sucre,Querobamba
+30139,50902,Ayacucho,Sucre,Belén
+30193,50903,Ayacucho,Sucre,Chalcos
+30249,50904,Ayacucho,Sucre,Chilcayoc
+30305,50905,Ayacucho,Sucre,Huacaña
+30361,50906,Ayacucho,Sucre,Morcolla
+30418,50907,Ayacucho,Sucre,Paico
+30475,50908,Ayacucho,Sucre,San Pedro de Larcay
+30529,50909,Ayacucho,Sucre,San Salvador de Quije
+30586,50910,Ayacucho,Sucre,Santiago de Paucaray
+30642,50911,Ayacucho,Sucre,Soras
+30698,51001,Ayacucho,Víctor Fajardo,Huancapi
+30755,51002,Ayacucho,Víctor Fajardo,Alcamenca
+30812,51003,Ayacucho,Víctor Fajardo,Apongo
+30868,51004,Ayacucho,Víctor Fajardo,Asquipata
+30925,51005,Ayacucho,Víctor Fajardo,Canaria
+30982,51006,Ayacucho,Víctor Fajardo,Cayara
+31039,51007,Ayacucho,Víctor Fajardo,Colca
+31096,51008,Ayacucho,Víctor Fajardo,Huamanquiquia
+31153,51009,Ayacucho,Víctor Fajardo,Huancaraylla
+31209,51010,Ayacucho,Víctor Fajardo,Hualla
+31265,51011,Ayacucho,Víctor Fajardo,Sarhua
+31322,51012,Ayacucho,Víctor Fajardo,Vilcanchos
+31379,51101,Ayacucho,Vilcas Huamán,Vilcas Huamán
+31436,51102,Ayacucho,Vilcas Huamán,Accomarca
+31493,51103,Ayacucho,Vilcas Huamán,Carhuanca
+31550,51104,Ayacucho,Vilcas Huamán,Concepción
+31607,51105,Ayacucho,Vilcas Huamán,Huambalpa
+31664,51106,Ayacucho,Vilcas Huamán,Independencia
+31721,51107,Ayacucho,Vilcas Huamán,Saurama
+31778,51108,Ayacucho,Vilcas Huamán,Vischongo
+31835,60101,Cajamarca,Cajamarca,Cajamarca
+31892,60102,Cajamarca,Cajamarca,Asunción
+31949,60103,Cajamarca,Cajamarca,Chetilla
+32005,60104,Cajamarca,Cajamarca,Cospan
+32062,60105,Cajamarca,Cajamarca,Encañada
+32119,60106,Cajamarca,Cajamarca,Jesús
+32176,60107,Cajamarca,Cajamarca,Llacanora
+32233,60108,Cajamarca,Cajamarca,Los Baños del Inca
+32290,60109,Cajamarca,Cajamarca,Magdalena
+32347,60110,Cajamarca,Cajamarca,Matara
+32404,60111,Cajamarca,Cajamarca,Namora
+32461,60112,Cajamarca,Cajamarca,San Juan
+32518,60201,Cajamarca,Cajabamba,Cajabamba
+32575,60202,Cajamarca,Cajabamba,Cachachi
+32632,60203,Cajamarca,Cajabamba,Condebamba
+32689,60204,Cajamarca,Cajabamba,Sitacocha
+32746,60301,Cajamarca,Celendín,Celendín
+32803,60302,Cajamarca,Celendín,Chumuch
+32860,60303,Cajamarca,Celendín,Cortegana
+32917,60304,Cajamarca,Celendín,Huasmin
+32974,60305,Cajamarca,Celendín,Jorge Chávez
+33031,60306,Cajamarca,Celendín,José Galvez
+33088,60307,Cajamarca,Celendín,Miguel Iglesias
+33145,60308,Cajamarca,Celendín,Oxamarca
+33202,60309,Cajamarca,Celendín,Sorochuco
+33259,60310,Cajamarca,Celendín,Sucre
+33316,60311,Cajamarca,Celendín,Utco
+33373,60312,Cajamarca,Celendín,La Libertad de Pallan
+33430,60401,Cajamarca,Chota,Chota
+33487,60402,Cajamarca,Chota,Anguia
+33544,60403,Cajamarca,Chota,Chadin
+33601,60404,Cajamarca,Chota,Chiguirip
+33658,60405,Cajamarca,Chota,Chimban
+33715,60406,Cajamarca,Chota,Choropampa
+33772,60407,Cajamarca,Chota,Cochabamba
+33829,60408,Cajamarca,Chota,Conchan
+33886,60409,Cajamarca,Chota,Huambos
+33943,60410,Cajamarca,Chota,Lajas
+34000,60411,Cajamarca,Chota,Llama
+34057,60412,Cajamarca,Chota,Miracosta
+34114,60413,Cajamarca,Chota,Paccha
+34171,60414,Cajamarca,Chota,Pion
+34228,60415,Cajamarca,Chota,Querocoto
+34285,60416,Cajamarca,Chota,San Juan de Licupis
+34342,60417,Cajamarca,Chota,Tacabamba
+34399,60418,Cajamarca,Chota,Tocmoche
+34456,60419,Cajamarca,Chota,Chalamarca
+34513,60501,Cajamarca,Contumazá,Contumazá
+34570,60502,Cajamarca,Contumazá,Chilete
+34627,60503,Cajamarca,Contumazá,Cupisnique
+34684,60504,Cajamarca,Contumazá,Guzmango
+34741,60505,Cajamarca,Contumazá,San Benito
+34798,60506,Cajamarca,Contumazá,Santa Cruz de Toled
+34855,60507,Cajamarca,Contumazá,Tantarica
+34912,60508,Cajamarca,Contumazá,Yonan
+34969,60601,Cajamarca,Cutervo,Cutervo
+35026,60602,Cajamarca,Cutervo,Callayuc
+35083,60603,Cajamarca,Cutervo,Choros
+35140,60604,Cajamarca,Cutervo,Cujillo
+35197,60605,Cajamarca,Cutervo,La Ramada
+35254,60606,Cajamarca,Cutervo,Pimpingos
+35311,60607,Cajamarca,Cutervo,Querocotillo
+35368,60608,Cajamarca,Cutervo,San Andrés de Cutervo
+35425,60609,Cajamarca,Cutervo,San Juan de Cutervo
+35482,60610,Cajamarca,Cutervo,San Luis de Lucma
+35539,60611,Cajamarca,Cutervo,Santa Cruz
+35596,60612,Cajamarca,Cutervo,Santo Domingo de la Capilla
+35653,60613,Cajamarca,Cutervo,Santo Tomas
+35710,60614,Cajamarca,Cutervo,Socota
+35767,60615,Cajamarca,Cutervo,Toribio Casanova
+35824,60701,Cajamarca,Hualgayoc,Bambamarca
+35881,60702,Cajamarca,Hualgayoc,Chugur
+35938,60703,Cajamarca,Hualgayoc,Hualgayoc
+35995,60801,Cajamarca,Jaén,Jaén
+36052,60802,Cajamarca,Jaén,Bellavista
+36109,60803,Cajamarca,Jaén,Chontali
+36166,60804,Cajamarca,Jaén,Colasay
+36223,60805,Cajamarca,Jaén,Huabal
+36280,60806,Cajamarca,Jaén,Las Pirias
+36337,60807,Cajamarca,Jaén,Pomahuaca
+36394,60808,Cajamarca,Jaén,Pucara
+36451,60809,Cajamarca,Jaén,Sallique
+36508,60810,Cajamarca,Jaén,San Felipe
+36565,60811,Cajamarca,Jaén,San José del Alto
+36622,60812,Cajamarca,Jaén,Santa Rosa
+36679,60901,Cajamarca,San Ignacio,San Ignacio
+36736,60902,Cajamarca,San Ignacio,Chirinos
+36793,60903,Cajamarca,San Ignacio,Huarango
+36850,60904,Cajamarca,San Ignacio,La Coipa
+36907,60905,Cajamarca,San Ignacio,Namballe
+36964,60906,Cajamarca,San Ignacio,San José de Lourdes
+37021,60907,Cajamarca,San Ignacio,Tabaconas
+37078,61001,Cajamarca,San Marcos,Pedro Gálvez
+37135,61002,Cajamarca,San Marcos,Chancay
+37192,61003,Cajamarca,San Marcos,Eduardo Villanueva
+37249,61004,Cajamarca,San Marcos,Gregorio Pita
+37306,61005,Cajamarca,San Marcos,Ichocan
+37363,61006,Cajamarca,San Marcos,José Manuel Quiroz
+37420,61007,Cajamarca,San Marcos,José Sabogal
+37477,61101,Cajamarca,San Miguel,San Miguel
+37534,61102,Cajamarca,San Miguel,Bolívar
+37591,61103,Cajamarca,San Miguel,Calquis
+37648,61104,Cajamarca,San Miguel,Catilluc
+37705,61105,Cajamarca,San Miguel,El Prado
+37762,61106,Cajamarca,San Miguel,La Florida
+37819,61107,Cajamarca,San Miguel,Llapa
+37876,61108,Cajamarca,San Miguel,Nanchoc
+37933,61109,Cajamarca,San Miguel,Niepos
+37990,61110,Cajamarca,San Miguel,San Gregorio
+38047,61111,Cajamarca,San Miguel,San Silvestre de Cochan
+38104,61112,Cajamarca,San Miguel,Tongod
+38161,61113,Cajamarca,San Miguel,Unión Agua Blanca
+38218,61201,Cajamarca,San Pablo,San Pablo
+38275,61202,Cajamarca,San Pablo,San Bernardino
+38332,61203,Cajamarca,San Pablo,San Luis
+38389,61204,Cajamarca,San Pablo,Tumbaden
+38446,61301,Cajamarca,Santa Cruz,Santa Cruz
+38503,61302,Cajamarca,Santa Cruz,Andabamba
+38560,61303,Cajamarca,Santa Cruz,Catache
+38617,61304,Cajamarca,Santa Cruz,Chancaybaños
+38674,61305,Cajamarca,Santa Cruz,La Esperanza
+38731,61306,Cajamarca,Santa Cruz,Ninabamba
+38788,61307,Cajamarca,Santa Cruz,Pulan
+38845,61308,Cajamarca,Santa Cruz,Saucepampa
+38902,61309,Cajamarca,Santa Cruz,Sexi
+38958,61310,Cajamarca,Santa Cruz,Uticyacu
+39015,61311,Cajamarca,Santa Cruz,Yauyucan
+39072,70101,Prov. Constitucional del Callao,distrito: Callao,Yauyucan
+39129,70102,Prov. Constitucional del Callao,distrito: Bellavista,Yauyucan
+39186,70103,Prov. Constitucional del Callao,distrito: Carmen de la Legua Reynoso,Yauyucan
+39243,70104,Prov. Constitucional del Callao,distrito: La Perla,Yauyucan
+39300,70105,Prov. Constitucional del Callao,distrito: La Punta,Yauyucan
+39357,70106,Prov. Constitucional del Callao,distrito: Ventanilla,Yauyucan
+39414,70107,Prov. Constitucional del Callao,distrito: Mi Perú,Yauyucan
+39471,80101,Cusco,Cusco,Cusco
+39528,80102,Cusco,Cusco,Ccorca
+39585,80103,Cusco,Cusco,Poroy
+39642,80104,Cusco,Cusco,San Jerónimo
+39699,80105,Cusco,Cusco,San Sebastian
+39756,80106,Cusco,Cusco,Santiago
+39813,80107,Cusco,Cusco,Saylla
+39870,80108,Cusco,Cusco,Wanchaq
+39927,80201,Cusco,Acomayo,Acomayo
+39984,80202,Cusco,Acomayo,Acopia
+40041,80203,Cusco,Acomayo,Acos
+40098,80204,Cusco,Acomayo,Mosoc Llacta
+40154,80205,Cusco,Acomayo,Pomacanchi
+40211,80206,Cusco,Acomayo,Rondocan
+40268,80207,Cusco,Acomayo,Sangarara
+40325,80301,Cusco,Anta,Anta
+40382,80302,Cusco,Anta,Ancahuasi
+40439,80303,Cusco,Anta,Cachimayo
+40496,80304,Cusco,Anta,Chinchaypujio
+40553,80305,Cusco,Anta,Huarocondo
+40610,80306,Cusco,Anta,Limatambo
+40667,80307,Cusco,Anta,Mollepata
+40724,80308,Cusco,Anta,Pucyura
+40781,80309,Cusco,Anta,Zurite
+40838,80401,Cusco,Calca,Calca
+40895,80402,Cusco,Calca,Coya
+40952,80403,Cusco,Calca,Lamay
+41009,80404,Cusco,Calca,Lares
+41066,80405,Cusco,Calca,Pisac
+41123,80406,Cusco,Calca,San Salvador
+41180,80407,Cusco,Calca,Taray
+41237,80408,Cusco,Calca,Yanatile
+41294,80501,Cusco,Canas,Yanaoca
+41351,80502,Cusco,Canas,Checca
+41408,80503,Cusco,Canas,Kunturkanki
+41465,80504,Cusco,Canas,Langui
+41522,80505,Cusco,Canas,Layo
+41579,80506,Cusco,Canas,Pampamarca
+41636,80507,Cusco,Canas,Quehue
+41693,80508,Cusco,Canas,Tupac Amaru
+41750,80601,Cusco,Canchis,Sicuani
+41807,80602,Cusco,Canchis,Checacupe
+41864,80603,Cusco,Canchis,Combapata
+41921,80604,Cusco,Canchis,Marangani
+41978,80605,Cusco,Canchis,Pitumarca
+42035,80606,Cusco,Canchis,San Pablo
+42092,80607,Cusco,Canchis,San Pedro
+42149,80608,Cusco,Canchis,Tinta
+42206,80701,Cusco,Chumbivilcas,Santo Tomas
+42263,80702,Cusco,Chumbivilcas,Capacmarca
+42320,80703,Cusco,Chumbivilcas,Chamaca
+42377,80704,Cusco,Chumbivilcas,Colquemarca
+42434,80705,Cusco,Chumbivilcas,Livitaca
+42491,80706,Cusco,Chumbivilcas,Llusco
+42548,80707,Cusco,Chumbivilcas,Quiñota
+42605,80708,Cusco,Chumbivilcas,Velille
+42662,80801,Cusco,Espinar,Espinar
+42719,80802,Cusco,Espinar,Condoroma
+42772,80803,Cusco,Espinar,Coporaque
+42829,80804,Cusco,Espinar,Ocoruro
+42886,80805,Cusco,Espinar,Pallpata
+42943,80806,Cusco,Espinar,Pichigua
+43000,80807,Cusco,Espinar,Suyckutambo
+43054,80808,Cusco,Espinar,Alto Pichigua
+43111,80901,Cusco,La Convención,Santa Ana
+43168,80902,Cusco,La Convención,Echarate
+43225,80903,Cusco,La Convención,Huayopata
+43282,80904,Cusco,La Convención,Maranura
+43339,80905,Cusco,La Convención,Ocobamba
+43396,80906,Cusco,La Convención,Quellouno
+43453,80907,Cusco,La Convención,Kimbiri
+43510,80908,Cusco,La Convención,Santa Teresa
+43567,80909,Cusco,La Convención,Vilcabamba
+43624,80910,Cusco,La Convención,Pichari
+43681,80911,Cusco,La Convención,Inkawasi
+43738,80912,Cusco,La Convención,Villa Virgen
+43792,80913,Cusco,La Convención,Villa Kintiarina
+43845,80914,Cusco,La Convención,Megantoni
+43898,81001,Cusco,Paruro,Paruro
+43955,81002,Cusco,Paruro,Accha
+44012,81003,Cusco,Paruro,Ccapi
+44069,81004,Cusco,Paruro,Colcha
+44126,81005,Cusco,Paruro,Huanoquite
+44183,81006,Cusco,Paruro,Omacha
+44240,81007,Cusco,Paruro,Paccaritambo
+44297,81008,Cusco,Paruro,Pillpinto
+44354,81009,Cusco,Paruro,Yaurisque
+44411,81101,Cusco,Paucartambo,Paucartambo
+44468,81102,Cusco,Paucartambo,Caicay
+44525,81103,Cusco,Paucartambo,Challabamba
+44582,81104,Cusco,Paucartambo,Colquepata
+44639,81105,Cusco,Paucartambo,Huancarani
+44696,81106,Cusco,Paucartambo,Kosñipata
+44753,81201,Cusco,Quispicanchi,Urcos
+44810,81202,Cusco,Quispicanchi,Andahuaylillas
+44867,81203,Cusco,Quispicanchi,Camanti
+44923,81204,Cusco,Quispicanchi,Ccarhuayo
+44980,81205,Cusco,Quispicanchi,Ccatca
+45037,81206,Cusco,Quispicanchi,Cusipata
+45094,81207,Cusco,Quispicanchi,Huaro
+45151,81208,Cusco,Quispicanchi,Lucre
+45208,81209,Cusco,Quispicanchi,Marcapata
+45264,81210,Cusco,Quispicanchi,Ocongate
+45321,81211,Cusco,Quispicanchi,Oropesa
+45378,81212,Cusco,Quispicanchi,Quiquijana
+45435,81301,Cusco,Urubamba,Urubamba
+45492,81302,Cusco,Urubamba,Chinchero
+45549,81303,Cusco,Urubamba,Huayllabamba
+45606,81304,Cusco,Urubamba,Machupicchu
+45662,81305,Cusco,Urubamba,Maras
+45719,81306,Cusco,Urubamba,Ollantaytambo
+45776,81307,Cusco,Urubamba,Yucay
+45833,90101,Huancavelica,Huancavelica,Huancavelica
+45890,90102,Huancavelica,Huancavelica,Acobambilla
+45947,90103,Huancavelica,Huancavelica,Acoria
+46004,90104,Huancavelica,Huancavelica,Conayca
+46061,90105,Huancavelica,Huancavelica,Cuenca
+46117,90106,Huancavelica,Huancavelica,Huachocolpa
+46171,90107,Huancavelica,Huancavelica,Huayllahuara
+46227,90108,Huancavelica,Huancavelica,Izcuchaca
+46284,90109,Huancavelica,Huancavelica,Laria
+46340,90110,Huancavelica,Huancavelica,Manta
+46397,90111,Huancavelica,Huancavelica,Mariscal Cáceres
+46451,90112,Huancavelica,Huancavelica,Moya
+46507,90113,Huancavelica,Huancavelica,Nuevo Occoro
+46563,90114,Huancavelica,Huancavelica,Palca
+46620,90115,Huancavelica,Huancavelica,Pilchaca
+46676,90116,Huancavelica,Huancavelica,Vilca
+46733,90117,Huancavelica,Huancavelica,Yauli
+46790,90118,Huancavelica,Huancavelica,Ascensión
+46847,90119,Huancavelica,Huancavelica,Huando
+46904,90201,Huancavelica,Acobamba,Acobamba
+46961,90202,Huancavelica,Acobamba,Andabamba
+47018,90203,Huancavelica,Acobamba,Anta
+47074,90204,Huancavelica,Acobamba,Caja
+47131,90205,Huancavelica,Acobamba,Marcas
+47188,90206,Huancavelica,Acobamba,Paucara
+47244,90207,Huancavelica,Acobamba,Pomacocha
+47301,90208,Huancavelica,Acobamba,Rosario
+47358,90301,Huancavelica,Angaraes,Lircay
+47415,90302,Huancavelica,Angaraes,Anchonga
+47472,90303,Huancavelica,Angaraes,Callanmarca
+47528,90304,Huancavelica,Angaraes,Ccochaccasa
+47584,90305,Huancavelica,Angaraes,Chincho
+47641,90306,Huancavelica,Angaraes,Congalla
+47698,90307,Huancavelica,Angaraes,Huanca-Huanca
+47755,90308,Huancavelica,Angaraes,Huayllay Grande
+47812,90309,Huancavelica,Angaraes,Julcamarca
+47869,90310,Huancavelica,Angaraes,San Antonio de Antaparco
+47926,90311,Huancavelica,Angaraes,Santo Tomas de Pata
+47982,90312,Huancavelica,Angaraes,Secclla
+48039,90401,Huancavelica,Castrovirreyna,Castrovirreyna
+48095,90402,Huancavelica,Castrovirreyna,Arma
+48152,90403,Huancavelica,Castrovirreyna,Aurahua
+48209,90404,Huancavelica,Castrovirreyna,Capillas
+48266,90405,Huancavelica,Castrovirreyna,Chupamarca
+48323,90406,Huancavelica,Castrovirreyna,Cocas
+48380,90407,Huancavelica,Castrovirreyna,Huachos
+48437,90408,Huancavelica,Castrovirreyna,Huamatambo
+48494,90409,Huancavelica,Castrovirreyna,Mollepampa
+48551,90410,Huancavelica,Castrovirreyna,San Juan
+48608,90411,Huancavelica,Castrovirreyna,Santa Ana
+48662,90412,Huancavelica,Castrovirreyna,Tantara
+48719,90413,Huancavelica,Castrovirreyna,Ticrapo
+48776,90501,Huancavelica,Churcampa,Churcampa
+48833,90502,Huancavelica,Churcampa,Anco
+48890,90503,Huancavelica,Churcampa,Chinchihuasi
+48947,90504,Huancavelica,Churcampa,El Carmen
+49004,90505,Huancavelica,Churcampa,La Merced
+49061,90506,Huancavelica,Churcampa,Locroja
+49118,90507,Huancavelica,Churcampa,Paucarbamba
+49175,90508,Huancavelica,Churcampa,San Miguel de Mayocc
+49231,90509,Huancavelica,Churcampa,San Pedro de Coris
+49288,90510,Huancavelica,Churcampa,Pachamarca
+49344,90511,Huancavelica,Churcampa,Cosme
+49401,90601,Huancavelica,Huaytará,Huaytará
+49458,90602,Huancavelica,Huaytará,Ayavi
+49515,90603,Huancavelica,Huaytará,Cordova
+49572,90604,Huancavelica,Huaytará,Huayacundo Arma
+49629,90605,Huancavelica,Huaytará,Laramarca
+49686,90606,Huancavelica,Huaytará,Ocoyo
+49743,90607,Huancavelica,Huaytará,Pilpichaca
+49800,90608,Huancavelica,Huaytará,Querco
+49857,90609,Huancavelica,Huaytará,Quito-Arma
+49914,90610,Huancavelica,Huaytará,San Antonio de Cusicancha
+49971,90611,Huancavelica,Huaytará,San Francisco de Sangayaico
+50028,90612,Huancavelica,Huaytará,San Isidro
+50085,90613,Huancavelica,Huaytará,Santiago de Chocorvos
+50142,90614,Huancavelica,Huaytará,Santiago de Quirahuara
+50198,90615,Huancavelica,Huaytará,Santo Domingo de Capillas
+50255,90616,Huancavelica,Huaytará,Tambo
+50312,90701,Huancavelica,Tayacaja,Pampas
+50369,90702,Huancavelica,Tayacaja,Acostambo
+50426,90703,Huancavelica,Tayacaja,Acraquia
+50483,90704,Huancavelica,Tayacaja,Ahuaycha
+50540,90705,Huancavelica,Tayacaja,Colcabamba
+50597,90706,Huancavelica,Tayacaja,Daniel Hernández
+50654,90707,Huancavelica,Tayacaja,Huachocolpa
+50711,90709,Huancavelica,Tayacaja,Huaribamba
+50768,90710,Huancavelica,Tayacaja,Ñahuimpuquio
+50825,90711,Huancavelica,Tayacaja,Pazos
+50882,90713,Huancavelica,Tayacaja,Quishuar
+50937,90714,Huancavelica,Tayacaja,Salcabamba
+50994,90715,Huancavelica,Tayacaja,Salcahuasi
+51051,90716,Huancavelica,Tayacaja,San Marcos de Rocchac
+51108,90717,Huancavelica,Tayacaja,Surcubamba
+51165,90718,Huancavelica,Tayacaja,Tintay Puncu
+51219,90719,Huancavelica,Tayacaja,Quichuas
+51275,90720,Huancavelica,Tayacaja,Andaymarca
+51332,90721,Huancavelica,Tayacaja,Roble
+51388,90722,Huancavelica,Tayacaja,Pichos
+51444,90723,Huancavelica,Tayacaja,Santiago de Tucuma
+51500,100101,Huánuco,Huánuco,Huánuco
+51557,100102,Huánuco,Huánuco,Amarilis
+51614,100103,Huánuco,Huánuco,Chinchao
+51671,100104,Huánuco,Huánuco,Churubamba
+51728,100105,Huánuco,Huánuco,Margos
+51784,100106,Huánuco,Huánuco,Quisqui (Kichki)
+51841,100107,Huánuco,Huánuco,San Francisco de Cayran
+51898,100108,Huánuco,Huánuco,San Pedro de Chaulan
+51955,100109,Huánuco,Huánuco,Santa Maria del Valle
+52012,100110,Huánuco,Huánuco,Yarumayo
+52069,100111,Huánuco,Huánuco,Pillco Marca
+52126,100112,Huánuco,Huánuco,Yacus
+52183,100113,Huánuco,Huánuco,San Pablo de Pillao
+52240,100201,Huánuco,Ambo,Ambo
+52297,100202,Huánuco,Ambo,Cayna
+52354,100203,Huánuco,Ambo,Colpas
+52411,100204,Huánuco,Ambo,Conchamarca
+52468,100205,Huánuco,Ambo,Huacar
+52525,100206,Huánuco,Ambo,San Francisco
+52581,100207,Huánuco,Ambo,San Rafael
+52638,100208,Huánuco,Ambo,Tomay Kichwa
+52695,100301,Huánuco,Dos de Mayo,La Unión
+52752,100307,Huánuco,Dos de Mayo,Chuquis
+52809,100311,Huánuco,Dos de Mayo,Marías
+52866,100313,Huánuco,Dos de Mayo,Pachas
+52923,100316,Huánuco,Dos de Mayo,Quivilla
+52980,100317,Huánuco,Dos de Mayo,Ripan
+53037,100321,Huánuco,Dos de Mayo,Shunqui
+53093,100322,Huánuco,Dos de Mayo,Sillapata
+53149,100323,Huánuco,Dos de Mayo,Yanas
+53206,100401,Huánuco,Huacaybamba,Huacaybamba
+53263,100402,Huánuco,Huacaybamba,Canchabamba
+53320,100403,Huánuco,Huacaybamba,Cochabamba
+53377,100404,Huánuco,Huacaybamba,Pinra
+53434,100501,Huánuco,Huamalíes,Llata
+53491,100502,Huánuco,Huamalíes,Arancay
+53547,100503,Huánuco,Huamalíes,Chavín de Pariarca
+53604,100504,Huánuco,Huamalíes,Jacas Grande
+53661,100505,Huánuco,Huamalíes,Jircan
+53717,100506,Huánuco,Huamalíes,Miraflores
+53773,100507,Huánuco,Huamalíes,Monzón
+53830,100508,Huánuco,Huamalíes,Punchao
+53884,100509,Huánuco,Huamalíes,Puños
+53941,100510,Huánuco,Huamalíes,Singa
+53998,100511,Huánuco,Huamalíes,Tantamayo
+54055,100601,Huánuco,Leoncio Prado,Rupa-Rupa
+54112,100602,Huánuco,Leoncio Prado,Daniel Alomía Robles
+54168,100603,Huánuco,Leoncio Prado,Hermílio Valdizan
+54224,100604,Huánuco,Leoncio Prado,José Crespo y Castillo
+54281,100605,Huánuco,Leoncio Prado,Luyando
+54338,100606,Huánuco,Leoncio Prado,Mariano Damaso Beraun
+54395,100607,Huánuco,Leoncio Prado,Pucayacu
+54451,100608,Huánuco,Leoncio Prado,Castillo Grande
+54508,100609,Huánuco,Leoncio Prado,Pueblo Nuevo
+54565,100610,Huánuco,Leoncio Prado,Santo Domingo de Anda
+54622,100701,Huánuco,Marañón,Huacrachuco
+54679,100702,Huánuco,Marañón,Cholon
+54735,100703,Huánuco,Marañón,San Buenaventura
+54791,100704,Huánuco,Marañón,La Morada
+54847,100705,Huánuco,Marañón,Santa Rosa de Alto Yanajanca
+54903,100801,Huánuco,Pachitea,Panao
+54960,100802,Huánuco,Pachitea,Chaglla
+55017,100803,Huánuco,Pachitea,Molino
+55074,100804,Huánuco,Pachitea,Umari
+55131,100901,Huánuco,Puerto Inca,Puerto Inca
+55188,100902,Huánuco,Puerto Inca,Codo del Pozuzo
+55245,100903,Huánuco,Puerto Inca,Honoria
+55301,100904,Huánuco,Puerto Inca,Tournavista
+55358,100905,Huánuco,Puerto Inca,Yuyapichis
+55415,101001,Huánuco,Lauricocha,Jesús
+55472,101002,Huánuco,Lauricocha,Baños
+55529,101003,Huánuco,Lauricocha,Jivia
+55585,101004,Huánuco,Lauricocha,Queropalca
+55642,101005,Huánuco,Lauricocha,Rondos
+55699,101006,Huánuco,Lauricocha,San Francisco de Asís
+55756,101007,Huánuco,Lauricocha,San Miguel de Cauri
+55813,101101,Huánuco,Yarowilca,Chavinillo
+55870,101102,Huánuco,Yarowilca,Cahuac
+55926,101103,Huánuco,Yarowilca,Chacabamba
+55983,101104,Huánuco,Yarowilca,Aparicio Pomares
+56040,101105,Huánuco,Yarowilca,Jacas Chico
+56096,101106,Huánuco,Yarowilca,Obas
+56153,101107,Huánuco,Yarowilca,Pampamarca
+56209,101108,Huánuco,Yarowilca,Choras
+56266,110101,Ica,Ica,Ica
+56323,110102,Ica,Ica,La Tinguiña
+56380,110103,Ica,Ica,Los Aquijes
+56437,110104,Ica,Ica,Ocucaje
+56494,110105,Ica,Ica,Pachacutec
+56551,110106,Ica,Ica,Parcona
+56608,110107,Ica,Ica,Pueblo Nuevo
+56665,110108,Ica,Ica,Salas
+56722,110109,Ica,Ica,San José de Los Molinos
+56779,110110,Ica,Ica,San Juan Bautista
+56836,110111,Ica,Ica,Santiago
+56893,110112,Ica,Ica,Subtanjalla
+56950,110113,Ica,Ica,Tate
+57007,110114,Ica,Ica,Yauca del Rosario
+57064,110201,Ica,Chincha,Chincha Alta
+57121,110202,Ica,Chincha,Alto Laran
+57178,110203,Ica,Chincha,Chavin
+57235,110204,Ica,Chincha,Chincha Baja
+57292,110205,Ica,Chincha,El Carmen
+57349,110206,Ica,Chincha,Grocio Prado
+57406,110207,Ica,Chincha,Pueblo Nuevo
+57463,110208,Ica,Chincha,San Juan de Yanac
+57520,110209,Ica,Chincha,San Pedro de Huacarpana
+57573,110210,Ica,Chincha,Sunampe
+57630,110211,Ica,Chincha,Tambo de Mora
+57687,110301,Ica,Nasca,Nasca
+57744,110302,Ica,Nasca,Changuillo
+57801,110303,Ica,Nasca,El Ingenio
+57858,110304,Ica,Nasca,Marcona
+57915,110305,Ica,Nasca,Vista Alegre
+57972,110401,Ica,Palpa,Palpa
+58029,110402,Ica,Palpa,Llipata
+58085,110403,Ica,Palpa,Río Grande
+58142,110404,Ica,Palpa,Santa Cruz
+58199,110405,Ica,Palpa,Tibillo
+58256,110501,Ica,Pisco,Pisco
+58313,110502,Ica,Pisco,Huancano
+58370,110503,Ica,Pisco,Humay
+58427,110504,Ica,Pisco,Independencia
+58484,110505,Ica,Pisco,Paracas
+58541,110506,Ica,Pisco,San Andrés
+58598,110507,Ica,Pisco,San Clemente
+58655,110508,Ica,Pisco,Tupac Amaru Inca
+58712,120101,Junín,Huancayo,Huancayo
+58769,120104,Junín,Huancayo,Carhuacallanga
+58826,120105,Junín,Huancayo,Chacapampa
+58883,120106,Junín,Huancayo,Chicche
+58940,120107,Junín,Huancayo,Chilca
+58997,120108,Junín,Huancayo,Chongos Alto
+59054,120111,Junín,Huancayo,Chupuro
+59111,120112,Junín,Huancayo,Colca
+59168,120113,Junín,Huancayo,Cullhuas
+59224,120114,Junín,Huancayo,El Tambo
+59281,120116,Junín,Huancayo,Huacrapuquio
+59338,120117,Junín,Huancayo,Hualhuas
+59395,120119,Junín,Huancayo,Huancan
+59452,120120,Junín,Huancayo,Huasicancha
+59508,120121,Junín,Huancayo,Huayucachi
+59565,120122,Junín,Huancayo,Ingenio
+59622,120124,Junín,Huancayo,Pariahuanca
+59679,120125,Junín,Huancayo,Pilcomayo
+59736,120126,Junín,Huancayo,Pucara
+59793,120127,Junín,Huancayo,Quichuay
+59850,120128,Junín,Huancayo,Quilcas
+59907,120129,Junín,Huancayo,San Agustín
+59964,120130,Junín,Huancayo,San Jerónimo de Tunan
+60021,120132,Junín,Huancayo,Saño
+60078,120133,Junín,Huancayo,Sapallanga
+60135,120134,Junín,Huancayo,Sicaya
+60192,120135,Junín,Huancayo,Santo Domingo de Acobamba
+60249,120136,Junín,Huancayo,Viques
+60306,120201,Junín,Concepción,Concepción
+60363,120202,Junín,Concepción,Aco
+60420,120203,Junín,Concepción,Andamarca
+60477,120204,Junín,Concepción,Chambara
+60533,120205,Junín,Concepción,Cochas
+60590,120206,Junín,Concepción,Comas
+60647,120207,Junín,Concepción,Heroínas Toledo
+60704,120208,Junín,Concepción,Manzanares
+60761,120209,Junín,Concepción,Mariscal Castilla
+60818,120210,Junín,Concepción,Matahuasi
+60875,120211,Junín,Concepción,Mito
+60932,120212,Junín,Concepción,Nueve de Julio
+60989,120213,Junín,Concepción,Orcotuna
+61046,120214,Junín,Concepción,San José de Quero
+61103,120215,Junín,Concepción,Santa Rosa de Ocopa
+61160,120301,Junín,Chanchamayo,Chanchamayo
+61217,120302,Junín,Chanchamayo,Perene
+61274,120303,Junín,Chanchamayo,Pichanaqui
+61331,120304,Junín,Chanchamayo,San Luis de Shuaro
+61388,120305,Junín,Chanchamayo,San Ramón
+61445,120306,Junín,Chanchamayo,Vitoc
+61502,120401,Junín,Jauja,Jauja
+61559,120402,Junín,Jauja,Acolla
+61616,120403,Junín,Jauja,Apata
+61673,120404,Junín,Jauja,Ataura
+61730,120405,Junín,Jauja,Canchayllo
+61787,120406,Junín,Jauja,Curicaca
+61843,120407,Junín,Jauja,El Mantaro
+61900,120408,Junín,Jauja,Huamali
+61957,120409,Junín,Jauja,Huaripampa
+62014,120410,Junín,Jauja,Huertas
+62071,120411,Junín,Jauja,Janjaillo
+62125,120412,Junín,Jauja,Julcán
+62182,120413,Junín,Jauja,Leonor Ordoñez
+62239,120414,Junín,Jauja,Llocllapampa
+62296,120415,Junín,Jauja,Marco
+62353,120416,Junín,Jauja,Masma
+62410,120417,Junín,Jauja,Masma Chicche
+62466,120418,Junín,Jauja,Molinos
+62523,120419,Junín,Jauja,Monobamba
+62579,120420,Junín,Jauja,Muqui
+62636,120421,Junín,Jauja,Muquiyauyo
+62693,120422,Junín,Jauja,Paca
+62750,120423,Junín,Jauja,Paccha
+62806,120424,Junín,Jauja,Pancan
+62863,120425,Junín,Jauja,Parco
+62920,120426,Junín,Jauja,Pomacancha
+62976,120427,Junín,Jauja,Ricran
+63033,120428,Junín,Jauja,San Lorenzo
+63090,120429,Junín,Jauja,San Pedro de Chunan
+63147,120430,Junín,Jauja,Sausa
+63204,120431,Junín,Jauja,Sincos
+63261,120432,Junín,Jauja,Tunan Marca
+63318,120433,Junín,Jauja,Yauli
+63372,120434,Junín,Jauja,Yauyos
+63429,120501,Junín,Junín,Junín
+63486,120502,Junín,Junín,Carhuamayo
+63543,120503,Junín,Junín,Ondores
+63600,120504,Junín,Junín,Ulcumayo
+63657,120601,Junín,Satipo,Satipo
+63714,120602,Junín,Satipo,Coviriali
+63771,120603,Junín,Satipo,Llaylla
+63828,120604,Junín,Satipo,Mazamari
+63885,120605,Junín,Satipo,Pampa Hermosa
+63942,120606,Junín,Satipo,Pangoa
+63999,120607,Junín,Satipo,Río Negro
+64056,120608,Junín,Satipo,Río Tambo
+64113,120609,Junín,Satipo,Vizcatan del Ene
+64166,120701,Junín,Tarma,Tarma
+64223,120702,Junín,Tarma,Acobamba
+64280,120703,Junín,Tarma,Huaricolca
+64337,120704,Junín,Tarma,Huasahuasi
+64394,120705,Junín,Tarma,La Unión
+64451,120706,Junín,Tarma,Palca
+64508,120707,Junín,Tarma,Palcamayo
+64565,120708,Junín,Tarma,San Pedro de Cajas
+64622,120709,Junín,Tarma,Tapo
+64679,120801,Junín,Yauli,La Oroya
+64736,120802,Junín,Yauli,Chacapalpa
+64792,120803,Junín,Yauli,Huay-Huay
+64847,120804,Junín,Yauli,Marcapomacocha
+64901,120805,Junín,Yauli,Morococha
+64957,120806,Junín,Yauli,Paccha
+65014,120807,Junín,Yauli,Santa Bárbara de Carhuacayan
+65071,120808,Junín,Yauli,Santa Rosa de Sacco
+65128,120809,Junín,Yauli,Suitucancha
+65185,120810,Junín,Yauli,Yauli
+65241,120901,Junín,Chupaca,Chupaca
+65298,120902,Junín,Chupaca,Ahuac
+65355,120903,Junín,Chupaca,Chongos Bajo
+65412,120904,Junín,Chupaca,Huachac
+65469,120905,Junín,Chupaca,Huamancaca Chico
+65526,120906,Junín,Chupaca,San Juan de Iscos
+65583,120907,Junín,Chupaca,San Juan de Jarpa
+65640,120908,Junín,Chupaca,Tres de Diciembre
+65697,120909,Junín,Chupaca,Yanacancha
+65754,130101,La Libertad,Trujillo,Trujillo
+65811,130102,La Libertad,Trujillo,El Porvenir
+65868,130103,La Libertad,Trujillo,Florencia de Mora
+65925,130104,La Libertad,Trujillo,Huanchaco
+65982,130105,La Libertad,Trujillo,La Esperanza
+66039,130106,La Libertad,Trujillo,Laredo
+66096,130107,La Libertad,Trujillo,Moche
+66153,130108,La Libertad,Trujillo,Poroto
+66210,130109,La Libertad,Trujillo,Salaverry
+66267,130110,La Libertad,Trujillo,Simbal
+66324,130111,La Libertad,Trujillo,Victor Larco Herrera
+66381,130201,La Libertad,Ascope,Ascope
+66438,130202,La Libertad,Ascope,Chicama
+66495,130203,La Libertad,Ascope,Chocope
+66552,130204,La Libertad,Ascope,Magdalena de Cao
+66609,130205,La Libertad,Ascope,Paijan
+66666,130206,La Libertad,Ascope,Razuri
+66723,130207,La Libertad,Ascope,Santiago de Cao
+66780,130208,La Libertad,Ascope,Casa Grande
+66837,130301,La Libertad,Bolívar,Bolívar
+66894,130302,La Libertad,Bolívar,Bambamarca
+66950,130303,La Libertad,Bolívar,Condormarca
+67007,130304,La Libertad,Bolívar,Longotea
+67064,130305,La Libertad,Bolívar,Uchumarca
+67121,130306,La Libertad,Bolívar,Ucuncha
+67177,130401,La Libertad,Chepén,Chepén
+67234,130402,La Libertad,Chepén,Pacanga
+67291,130403,La Libertad,Chepén,Pueblo Nuevo
+67348,130501,La Libertad,Julcán,Julcán
+67405,130502,La Libertad,Julcán,Calamarca
+67462,130503,La Libertad,Julcán,Carabamba
+67519,130504,La Libertad,Julcán,Huaso
+67576,130601,La Libertad,Otuzco,Otuzco
+67633,130602,La Libertad,Otuzco,Agallpampa
+67690,130604,La Libertad,Otuzco,Charat
+67747,130605,La Libertad,Otuzco,Huaranchal
+67804,130606,La Libertad,Otuzco,La Cuesta
+67860,130608,La Libertad,Otuzco,Mache
+67917,130610,La Libertad,Otuzco,Paranday
+67974,130611,La Libertad,Otuzco,Salpo
+68031,130613,La Libertad,Otuzco,Sinsicap
+68088,130614,La Libertad,Otuzco,Usquil
+68145,130701,La Libertad,Pacasmayo,San Pedro de Lloc
+68202,130702,La Libertad,Pacasmayo,Guadalupe
+68259,130703,La Libertad,Pacasmayo,Jequetepeque
+68316,130704,La Libertad,Pacasmayo,Pacasmayo
+68373,130705,La Libertad,Pacasmayo,San José
+68430,130801,La Libertad,Pataz,Tayabamba
+68487,130802,La Libertad,Pataz,Buldibuyo
+68544,130803,La Libertad,Pataz,Chillia
+68601,130804,La Libertad,Pataz,Huancaspata
+68658,130805,La Libertad,Pataz,Huaylillas
+68715,130806,La Libertad,Pataz,Huayo
+68772,130807,La Libertad,Pataz,Ongon
+68828,130808,La Libertad,Pataz,Parcoy
+68885,130809,La Libertad,Pataz,Pataz
+68942,130810,La Libertad,Pataz,Pias
+68999,130811,La Libertad,Pataz,Santiago de Challas
+69056,130812,La Libertad,Pataz,Taurija
+69112,130813,La Libertad,Pataz,Urpay
+69168,130901,La Libertad,Sánchez Carrión,Huamachuco
+69225,130902,La Libertad,Sánchez Carrión,Chugay
+69282,130903,La Libertad,Sánchez Carrión,Cochorco
+69339,130904,La Libertad,Sánchez Carrión,Curgos
+69396,130905,La Libertad,Sánchez Carrión,Marcabal
+69453,130906,La Libertad,Sánchez Carrión,Sanagoran
+69510,130907,La Libertad,Sánchez Carrión,Sarin
+69567,130908,La Libertad,Sánchez Carrión,Sartimbamba
+69624,131001,La Libertad,Santiago de Chuco,Santiago de Chuco
+69681,131002,La Libertad,Santiago de Chuco,Angasmarca
+69738,131003,La Libertad,Santiago de Chuco,Cachicadan
+69795,131004,La Libertad,Santiago de Chuco,Mollebamba
+69852,131005,La Libertad,Santiago de Chuco,Mollepata
+69909,131006,La Libertad,Santiago de Chuco,Quiruvilca
+69966,131007,La Libertad,Santiago de Chuco,Santa Cruz de Chuca
+70023,131008,La Libertad,Santiago de Chuco,Sitabamba
+70080,131101,La Libertad,Gran Chimú,Cascas
+70137,131102,La Libertad,Gran Chimú,Lucma
+70194,131103,La Libertad,Gran Chimú,Marmot
+70251,131104,La Libertad,Gran Chimú,Sayapullo
+70308,131201,La Libertad,Virú,Virú
+70365,131202,La Libertad,Virú,Chao
+70422,131203,La Libertad,Virú,Guadalupito
+70479,140101,Lambayeque,Chiclayo,Chiclayo
+70536,140102,Lambayeque,Chiclayo,Chongoyape
+70593,140103,Lambayeque,Chiclayo,Eten
+70650,140104,Lambayeque,Chiclayo,Eten Puerto
+70707,140105,Lambayeque,Chiclayo,José Leonardo Ortiz
+70764,140106,Lambayeque,Chiclayo,La Victoria
+70821,140107,Lambayeque,Chiclayo,Lagunas
+70878,140108,Lambayeque,Chiclayo,Monsefu
+70935,140109,Lambayeque,Chiclayo,Nueva Arica
+70992,140110,Lambayeque,Chiclayo,Oyotun
+71049,140111,Lambayeque,Chiclayo,Picsi
+71106,140112,Lambayeque,Chiclayo,Pimentel
+71163,140113,Lambayeque,Chiclayo,Reque
+71220,140114,Lambayeque,Chiclayo,Santa Rosa
+71277,140115,Lambayeque,Chiclayo,Saña
+71334,140116,Lambayeque,Chiclayo,Cayalti
+71391,140117,Lambayeque,Chiclayo,Patapo
+71448,140118,Lambayeque,Chiclayo,Pomalca
+71505,140119,Lambayeque,Chiclayo,Pucala
+71562,140120,Lambayeque,Chiclayo,Tuman
+71619,140201,Lambayeque,Ferreñafe,Ferreñafe
+71676,140202,Lambayeque,Ferreñafe,Cañaris
+71733,140203,Lambayeque,Ferreñafe,Incahuasi
+71790,140204,Lambayeque,Ferreñafe,Manuel Antonio Mesones Muro
+71847,140205,Lambayeque,Ferreñafe,Pitipo
+71904,140206,Lambayeque,Ferreñafe,Pueblo Nuevo
+71961,140301,Lambayeque,Lambayeque,Lambayeque
+72018,140302,Lambayeque,Lambayeque,Chochope
+72075,140303,Lambayeque,Lambayeque,Illimo
+72132,140304,Lambayeque,Lambayeque,Jayanca
+72189,140305,Lambayeque,Lambayeque,Mochumi
+72246,140306,Lambayeque,Lambayeque,Morrope
+72303,140307,Lambayeque,Lambayeque,Motupe
+72360,140308,Lambayeque,Lambayeque,Olmos
+72417,140309,Lambayeque,Lambayeque,Pacora
+72474,140310,Lambayeque,Lambayeque,Salas
+72531,140311,Lambayeque,Lambayeque,San José
+72588,140312,Lambayeque,Lambayeque,Tucume
+72645,150101,Lima,Lima,Lima
+72702,150102,Lima,Lima,Ancón
+72759,150103,Lima,Lima,Ate
+72816,150104,Lima,Lima,Barranco
+72873,150105,Lima,Lima,Breña
+72930,150106,Lima,Lima,Carabayllo
+72987,150107,Lima,Lima,Chaclacayo
+73044,150108,Lima,Lima,Chorrillos
+73101,150109,Lima,Lima,Cieneguilla
+73158,150110,Lima,Lima,Comas
+73215,150111,Lima,Lima,El Agustino
+73272,150112,Lima,Lima,Independencia
+73329,150113,Lima,Lima,Jesús María
+73386,150114,Lima,Lima,La Molina
+73443,150115,Lima,Lima,La Victoria
+73500,150116,Lima,Lima,Lince
+73557,150117,Lima,Lima,Los Olivos
+73614,150118,Lima,Lima,Lurigancho
+73671,150119,Lima,Lima,Lurin
+73728,150120,Lima,Lima,Magdalena del Mar
+73785,150121,Lima,Lima,Pueblo Libre
+73842,150122,Lima,Lima,Miraflores
+73899,150123,Lima,Lima,Pachacamac
+73956,150124,Lima,Lima,Pucusana
+74013,150125,Lima,Lima,Puente Piedra
+74070,150126,Lima,Lima,Punta Hermosa
+74127,150127,Lima,Lima,Punta Negra
+74184,150128,Lima,Lima,Rímac
+74241,150129,Lima,Lima,San Bartolo
+74298,150130,Lima,Lima,San Borja
+74355,150131,Lima,Lima,San Isidro
+74412,150132,Lima,Lima,San Juan de Lurigancho
+74469,150133,Lima,Lima,San Juan de Miraflores
+74526,150134,Lima,Lima,San Luis
+74583,150135,Lima,Lima,San Martín de Porres
+74640,150136,Lima,Lima,San Miguel
+74697,150137,Lima,Lima,Santa Anita
+74754,150138,Lima,Lima,Santa María del Mar
+74808,150139,Lima,Lima,Santa Rosa
+74865,150140,Lima,Lima,Santiago de Surco
+74922,150141,Lima,Lima,Surquillo
+74979,150142,Lima,Lima,Villa el Salvador
+75036,150143,Lima,Lima,Villa María del Triunfo
+75093,150201,Lima,Barranca,Barranca
+75150,150202,Lima,Barranca,Paramonga
+75207,150203,Lima,Barranca,Pativilca
+75264,150204,Lima,Barranca,Supe
+75321,150205,Lima,Barranca,Supe Puerto
+75378,150301,Lima,Cajatambo,Cajatambo
+75435,150302,Lima,Cajatambo,Copa
+75491,150303,Lima,Cajatambo,Gorgor
+75548,150304,Lima,Cajatambo,Huancapon
+75605,150305,Lima,Cajatambo,Manas
+75662,150401,Lima,Canta,Canta
+75719,150402,Lima,Canta,Arahuay
+75776,150403,Lima,Canta,Huamantanga
+75833,150404,Lima,Canta,Huaros
+75889,150405,Lima,Canta,Lachaqui
+75946,150406,Lima,Canta,San Buenaventura
+76003,150407,Lima,Canta,Santa Rosa de Quives
+76060,150501,Lima,Cañete,San Vicente de Cañete
+76117,150502,Lima,Cañete,Asia
+76174,150503,Lima,Cañete,Calango
+76231,150504,Lima,Cañete,Cerro Azul
+76288,150505,Lima,Cañete,Chilca
+76345,150506,Lima,Cañete,Coayllo
+76402,150507,Lima,Cañete,Imperial
+76459,150508,Lima,Cañete,Lunahuana
+76516,150509,Lima,Cañete,Mala
+76573,150510,Lima,Cañete,Nuevo Imperial
+76630,150511,Lima,Cañete,Pacaran
+76687,150512,Lima,Cañete,Quilmana
+76744,150513,Lima,Cañete,San Antonio
+76801,150514,Lima,Cañete,San Luis
+76858,150515,Lima,Cañete,Santa Cruz de Flores
+76915,150516,Lima,Cañete,Zúñiga
+76972,150601,Lima,Huaral,Huaral
+77029,150602,Lima,Huaral,Atavillos Alto
+77083,150603,Lima,Huaral,Atavillos Bajo
+77140,150604,Lima,Huaral,Aucallama
+77197,150605,Lima,Huaral,Chancay
+77254,150606,Lima,Huaral,Ihuari
+77311,150607,Lima,Huaral,Lampian
+77365,150608,Lima,Huaral,Pacaraos
+77422,150609,Lima,Huaral,San Miguel de Acos
+77479,150610,Lima,Huaral,Santa Cruz de Andamarca
+77536,150611,Lima,Huaral,Sumbilca
+77593,150612,Lima,Huaral,Veintisiete de Noviembre
+77650,150701,Lima,Huarochirí,Matucana
+77707,150702,Lima,Huarochirí,Antioquia
+77764,150703,Lima,Huarochirí,Callahuanca
+77821,150704,Lima,Huarochirí,Carampoma
+77877,150705,Lima,Huarochirí,Chicla
+77934,150706,Lima,Huarochirí,Cuenca
+77991,150707,Lima,Huarochirí,Huachupampa
+78047,150708,Lima,Huarochirí,Huanza
+78104,150709,Lima,Huarochirí,Huarochirí
+78161,150710,Lima,Huarochirí,Lahuaytambo
+78217,150711,Lima,Huarochirí,Langa
+78274,150712,Lima,Huarochirí,San Pedro de Laraos
+78328,150713,Lima,Huarochirí,Mariatana
+78385,150714,Lima,Huarochirí,Ricardo Palma
+78442,150715,Lima,Huarochirí,San Andrés de Tupicocha
+78499,150716,Lima,Huarochirí,San Antonio
+78556,150717,Lima,Huarochirí,San Bartolomé
+78612,150718,Lima,Huarochirí,San Damian
+78669,150719,Lima,Huarochirí,San Juan de Iris
+78725,150720,Lima,Huarochirí,San Juan de Tantaranche
+78779,150721,Lima,Huarochirí,San Lorenzo de Quinti
+78836,150722,Lima,Huarochirí,San Mateo
+78893,150723,Lima,Huarochirí,San Mateo de Otao
+78950,150724,Lima,Huarochirí,San Pedro de Casta
+79007,150725,Lima,Huarochirí,San Pedro de Huancayre
+79061,150726,Lima,Huarochirí,Sangallaya
+79118,150727,Lima,Huarochirí,Santa Cruz de Cocachacra
+79175,150728,Lima,Huarochirí,Santa Eulalia
+79232,150729,Lima,Huarochirí,Santiago de Anchucaya
+79288,150730,Lima,Huarochirí,Santiago de Tuna
+79345,150731,Lima,Huarochirí,Santo Domingo de los Olleros
+79402,150732,Lima,Huarochirí,Surco
+79459,150801,Lima,Huaura,Huacho
+79516,150802,Lima,Huaura,Ambar
+79573,150803,Lima,Huaura,Caleta de Carquin
+79630,150804,Lima,Huaura,Checras
+79687,150805,Lima,Huaura,Hualmay
+79744,150806,Lima,Huaura,Huaura
+79801,150807,Lima,Huaura,Leoncio Prado
+79858,150808,Lima,Huaura,Paccho
+79915,150809,Lima,Huaura,Santa Leonor
+79971,150810,Lima,Huaura,Santa María
+80028,150811,Lima,Huaura,Sayan
+80085,150812,Lima,Huaura,Vegueta
+80142,150901,Lima,Oyón,Oyón
+80199,150902,Lima,Oyón,Andajes
+80255,150903,Lima,Oyón,Caujul
+80311,150904,Lima,Oyón,Cochamarca
+80368,150905,Lima,Oyón,Navan
+80425,150906,Lima,Oyón,Pachangara
+80482,151001,Lima,Yauyos,Yauyos
+80539,151002,Lima,Yauyos,Alis
+80595,151003,Lima,Yauyos,Allauca
+80652,151004,Lima,Yauyos,Ayaviri
+80708,151005,Lima,Yauyos,Azangaro
+80762,151006,Lima,Yauyos,Cacra
+80818,151007,Lima,Yauyos,Carania
+80874,151008,Lima,Yauyos,Catahuasi
+80931,151009,Lima,Yauyos,Chocos
+80987,151010,Lima,Yauyos,Cochas
+81043,151011,Lima,Yauyos,Colonia
+81100,151012,Lima,Yauyos,Hongos
+81156,151013,Lima,Yauyos,Huampara
+81212,151014,Lima,Yauyos,Huancaya
+81266,151015,Lima,Yauyos,Huangascar
+81322,151016,Lima,Yauyos,Huantan
+81376,151017,Lima,Yauyos,Huañec
+81432,151018,Lima,Yauyos,Laraos
+81489,151019,Lima,Yauyos,Lincha
+81544,151020,Lima,Yauyos,Madean
+81600,151021,Lima,Yauyos,Miraflores
+81655,151022,Lima,Yauyos,Omas
+81712,151023,Lima,Yauyos,Putinza
+81768,151024,Lima,Yauyos,Quinches
+81825,151025,Lima,Yauyos,Quinocay
+81882,151026,Lima,Yauyos,San Joaquín
+81937,151027,Lima,Yauyos,San Pedro de Pilas
+81994,151028,Lima,Yauyos,Tanta
+82050,151029,Lima,Yauyos,Tauripampa
+82106,151030,Lima,Yauyos,Tomas
+82160,151031,Lima,Yauyos,Tupe
+82217,151032,Lima,Yauyos,Viñac
+82274,151033,Lima,Yauyos,Vitis
+82331,160101,Loreto,Maynas,Iquitos
+82388,160102,Loreto,Maynas,Alto Nanay
+82444,160103,Loreto,Maynas,Fernando Lores
+82501,160104,Loreto,Maynas,Indiana
+82558,160105,Loreto,Maynas,Las Amazonas
+82615,160106,Loreto,Maynas,Mazan
+82672,160107,Loreto,Maynas,Napo
+82728,160108,Loreto,Maynas,Punchana
+82785,160110,Loreto,Maynas,Torres Causana
+82841,160112,Loreto,Maynas,Belén
+82898,160113,Loreto,Maynas,San Juan Bautista
+82955,160201,Loreto,Alto Amazonas,Yurimaguas
+83012,160202,Loreto,Alto Amazonas,Balsapuerto
+83066,160205,Loreto,Alto Amazonas,Jeberos
+83122,160206,Loreto,Alto Amazonas,Lagunas
+83179,160210,Loreto,Alto Amazonas,Santa Cruz
+83236,160211,Loreto,Alto Amazonas,Teniente Cesar López Rojas
+83292,160301,Loreto,Loreto,Nauta
+83349,160302,Loreto,Loreto,Parinari
+83406,160303,Loreto,Loreto,Tigre
+83463,160304,Loreto,Loreto,Trompeteros
+83519,160305,Loreto,Loreto,Urarinas
+83576,160401,Loreto,Mariscal Ramón Castilla,Ramón Castilla
+83633,160402,Loreto,Mariscal Ramón Castilla,Pebas
+83690,160403,Loreto,Mariscal Ramón Castilla,Yavari
+83746,160404,Loreto,Mariscal Ramón Castilla,San Pablo
+83803,160501,Loreto,Requena,Requena
+83860,160502,Loreto,Requena,Alto Tapiche
+83917,160503,Loreto,Requena,Capelo
+83973,160504,Loreto,Requena,Emilio San Martín
+84030,160505,Loreto,Requena,Maquia
+84087,160506,Loreto,Requena,Puinahua
+84143,160507,Loreto,Requena,Saquena
+84200,160508,Loreto,Requena,Soplin
+84250,160509,Loreto,Requena,Tapiche
+84301,160510,Loreto,Requena,Jenaro Herrera
+84358,160511,Loreto,Requena,Yaquerana
+84411,160601,Loreto,Ucayali,Contamana
+84468,160602,Loreto,Ucayali,Inahuaya
+84525,160603,Loreto,Ucayali,Padre Márquez
+84582,160604,Loreto,Ucayali,Pampa Hermosa
+84638,160605,Loreto,Ucayali,Sarayacu
+84695,160606,Loreto,Ucayali,Vargas Guerra
+84751,160701,Loreto,Datem del Marañón,Barranca
+84808,160702,Loreto,Datem del Marañón,Cahuapanas
+84861,160703,Loreto,Datem del Marañón,Manseriche
+84916,160704,Loreto,Datem del Marañón,Morona
+84971,160705,Loreto,Datem del Marañón,Pastaza
+85027,160706,Loreto,Datem del Marañón,Andoas
+85081,160801,Loreto,Putumayo,Putumayo
+85137,160802,Loreto,Putumayo,Rosa Panduro
+85187,160803,Loreto,Putumayo,Teniente Manuel Clavero
+85243,160804,Loreto,Putumayo,Yaguas
+85296,170101,Madre de Dios,Tambopata,Tambopata
+85353,170102,Madre de Dios,Tambopata,Inambari
+85409,170103,Madre de Dios,Tambopata,Las Piedras
+85466,170104,Madre de Dios,Tambopata,Laberinto
+85523,170201,Madre de Dios,Manu,Manu
+85578,170202,Madre de Dios,Manu,Fitzcarrald
+85631,170203,Madre de Dios,Manu,Madre de Dios
+85685,170204,Madre de Dios,Manu,Huepetuhe
+85741,170301,Madre de Dios,Tahuamanu,Iñapari
+85793,170302,Madre de Dios,Tahuamanu,Iberia
+85850,170303,Madre de Dios,Tahuamanu,Tahuamanu
+85906,180101,Moquegua,Mariscal Nieto,Moquegua
+85963,180102,Moquegua,Mariscal Nieto,Carumas
+86020,180103,Moquegua,Mariscal Nieto,Cuchumbaya
+86077,180104,Moquegua,Mariscal Nieto,Samegua
+86134,180105,Moquegua,Mariscal Nieto,San Cristóbal
+86191,180106,Moquegua,Mariscal Nieto,Torata
+86248,180201,Moquegua,General Sánchez Cerro,Omate
+86305,180202,Moquegua,General Sánchez Cerro,Chojata
+86362,180203,Moquegua,General Sánchez Cerro,Coalaque
+86419,180204,Moquegua,General Sánchez Cerro,Ichuña
+86476,180205,Moquegua,General Sánchez Cerro,La Capilla
+86533,180206,Moquegua,General Sánchez Cerro,Lloque
+86590,180207,Moquegua,General Sánchez Cerro,Matalaque
+86647,180208,Moquegua,General Sánchez Cerro,Puquina
+86704,180209,Moquegua,General Sánchez Cerro,Quinistaquillas
+86760,180210,Moquegua,General Sánchez Cerro,Ubinas
+86817,180211,Moquegua,General Sánchez Cerro,Yunga
+86873,180301,Moquegua,Ilo,Ilo
+86930,180302,Moquegua,Ilo,El Algarrobal
+86986,180303,Moquegua,Ilo,Pacocha
+87043,190101,Pasco,Pasco,Chaupimarca
+87100,190102,Pasco,Pasco,Huachon
+87157,190103,Pasco,Pasco,Huariaca
+87214,190104,Pasco,Pasco,Huayllay
+87271,190105,Pasco,Pasco,Ninacaca
+87328,190106,Pasco,Pasco,Pallanchacra
+87385,190107,Pasco,Pasco,Paucartambo
+87442,190108,Pasco,Pasco,San Francisco de Asís de Yarusyacan
+87499,190109,Pasco,Pasco,Simon Bolívar
+87556,190110,Pasco,Pasco,Ticlacayan
+87613,190111,Pasco,Pasco,Tinyahuarco
+87670,190112,Pasco,Pasco,Vicco
+87727,190113,Pasco,Pasco,Yanacancha
+87784,190201,Pasco,Daniel Alcides Carrión,Yanahuanca
+87841,190202,Pasco,Daniel Alcides Carrión,Chacayan
+87897,190203,Pasco,Daniel Alcides Carrión,Goyllarisquizga
+87953,190204,Pasco,Daniel Alcides Carrión,Paucar
+88009,190205,Pasco,Daniel Alcides Carrión,San Pedro de Pillao
+88066,190206,Pasco,Daniel Alcides Carrión,Santa Ana de Tusi
+88123,190207,Pasco,Daniel Alcides Carrión,Tapuc
+88179,190208,Pasco,Daniel Alcides Carrión,Vilcabamba
+88235,190301,Pasco,Oxapampa,Oxapampa
+88292,190302,Pasco,Oxapampa,Chontabamba
+88349,190303,Pasco,Oxapampa,Huancabamba
+88406,190304,Pasco,Oxapampa,Palcazu
+88462,190305,Pasco,Oxapampa,Pozuzo
+88519,190306,Pasco,Oxapampa,Puerto Bermúdez
+88576,190307,Pasco,Oxapampa,Villa Rica
+88633,190308,Pasco,Oxapampa,Constitución
+88690,200101,Piura,Piura,Piura
+88747,200104,Piura,Piura,Castilla
+88804,200105,Piura,Piura,Catacaos
+88861,200107,Piura,Piura,Cura Mori
+88918,200108,Piura,Piura,El Tallan
+88975,200109,Piura,Piura,La Arena
+89032,200110,Piura,Piura,La Unión
+89089,200111,Piura,Piura,Las Lomas
+89146,200114,Piura,Piura,Tambo Grande
+89203,200115,Piura,Piura,Veintiseis de Octubre
+89260,200201,Piura,Ayabaca,Ayabaca
+89317,200202,Piura,Ayabaca,Frias
+89374,200203,Piura,Ayabaca,Jilili
+89431,200204,Piura,Ayabaca,Lagunas
+89488,200205,Piura,Ayabaca,Montero
+89545,200206,Piura,Ayabaca,Pacaipampa
+89602,200207,Piura,Ayabaca,Paimas
+89659,200208,Piura,Ayabaca,Sapillica
+89716,200209,Piura,Ayabaca,Sicchez
+89773,200210,Piura,Ayabaca,Suyo
+89830,200301,Piura,Huancabamba,Huancabamba
+89887,200302,Piura,Huancabamba,Canchaque
+89944,200303,Piura,Huancabamba,El Carmen de la Frontera
+90001,200304,Piura,Huancabamba,Huarmaca
+90058,200305,Piura,Huancabamba,Lalaquiz
+90115,200306,Piura,Huancabamba,San Miguel de El Faique
+90172,200307,Piura,Huancabamba,Sondor
+90229,200308,Piura,Huancabamba,Sondorillo
+90286,200401,Piura,Morropón,Chulucanas
+90343,200402,Piura,Morropón,Buenos Aires
+90400,200403,Piura,Morropón,Chalaco
+90457,200404,Piura,Morropón,La Matanza
+90514,200405,Piura,Morropón,Morropón
+90571,200406,Piura,Morropón,Salitral
+90628,200407,Piura,Morropón,San Juan de Bigote
+90685,200408,Piura,Morropón,Santa Catalina de Mossa
+90742,200409,Piura,Morropón,Santo Domingo
+90799,200410,Piura,Morropón,Yamango
+90856,200501,Piura,Paita,Paita
+90913,200502,Piura,Paita,Amotape
+90970,200503,Piura,Paita,Arenal
+91027,200504,Piura,Paita,Colan
+91084,200505,Piura,Paita,La Huaca
+91141,200506,Piura,Paita,Tamarindo
+91198,200507,Piura,Paita,Vichayal
+91255,200601,Piura,Sullana,Sullana
+91312,200602,Piura,Sullana,Bellavista
+91369,200603,Piura,Sullana,Ignacio Escudero
+91426,200604,Piura,Sullana,Lancones
+91483,200605,Piura,Sullana,Marcavelica
+91540,200606,Piura,Sullana,Miguel Checa
+91597,200607,Piura,Sullana,Querecotillo
+91654,200608,Piura,Sullana,Salitral
+91711,200701,Piura,Talara,Pariñas
+91768,200702,Piura,Talara,El Alto
+91825,200703,Piura,Talara,La Brea
+91882,200704,Piura,Talara,Lobitos
+91937,200705,Piura,Talara,Los Organos
+91994,200706,Piura,Talara,Mancora
+92051,200801,Piura,Sechura,Sechura
+92108,200802,Piura,Sechura,Bellavista de la Unión
+92165,200803,Piura,Sechura,Bernal
+92222,200804,Piura,Sechura,Cristo Nos Valga
+92278,200805,Piura,Sechura,Vice
+92335,200806,Piura,Sechura,Rinconada Llicuar
+92392,210101,Puno,Puno,Puno
+92449,210102,Puno,Puno,Acora
+92506,210103,Puno,Puno,Amantani
+92563,210104,Puno,Puno,Atuncolla
+92620,210105,Puno,Puno,Capachica
+92677,210106,Puno,Puno,Chucuito
+92734,210107,Puno,Puno,Coata
+92791,210108,Puno,Puno,Huata
+92848,210109,Puno,Puno,Mañazo
+92905,210110,Puno,Puno,Paucarcolla
+92962,210111,Puno,Puno,Pichacani
+93019,210112,Puno,Puno,Plateria
+93076,210113,Puno,Puno,San Antonio
+93130,210114,Puno,Puno,Tiquillaca
+93187,210115,Puno,Puno,Vilque
+93243,210201,Puno,Azángaro,Azángaro
+93300,210202,Puno,Azángaro,Achaya
+93357,210203,Puno,Azángaro,Arapa
+93414,210204,Puno,Azángaro,Asillo
+93471,210205,Puno,Azángaro,Caminaca
+93528,210206,Puno,Azángaro,Chupa
+93585,210207,Puno,Azángaro,José Domingo Choquehuanca
+93642,210208,Puno,Azángaro,Muñani
+93699,210209,Puno,Azángaro,Potoni
+93755,210210,Puno,Azángaro,Saman
+93812,210211,Puno,Azángaro,San Anton
+93869,210212,Puno,Azángaro,San José
+93926,210213,Puno,Azángaro,San Juan de Salinas
+93983,210214,Puno,Azángaro,Santiago de Pupuja
+94040,210215,Puno,Azángaro,Tirapata
+94097,210301,Puno,Carabaya,Macusani
+94154,210302,Puno,Carabaya,Ajoyani
+94210,210303,Puno,Carabaya,Ayapata
+94267,210304,Puno,Carabaya,Coasa
+94324,210305,Puno,Carabaya,Corani
+94380,210306,Puno,Carabaya,Crucero
+94437,210307,Puno,Carabaya,Ituata
+94494,210308,Puno,Carabaya,Ollachea
+94551,210309,Puno,Carabaya,San Gaban
+94607,210310,Puno,Carabaya,Usicayos
+94664,210401,Puno,Chucuito,Juli
+94721,210402,Puno,Chucuito,Desaguadero
+94778,210403,Puno,Chucuito,Huacullani
+94835,210404,Puno,Chucuito,Kelluyo
+94892,210405,Puno,Chucuito,Pisacoma
+94949,210406,Puno,Chucuito,Pomata
+95006,210407,Puno,Chucuito,Zepita
+95063,210501,Puno,El Collao,Ilave
+95120,210502,Puno,El Collao,Capazo
+95176,210503,Puno,El Collao,Pilcuyo
+95233,210504,Puno,El Collao,Santa Rosa
+95290,210505,Puno,El Collao,Conduriri
+95347,210601,Puno,Huancané,Huancané
+95404,210602,Puno,Huancané,Cojata
+95461,210603,Puno,Huancané,Huatasani
+95518,210604,Puno,Huancané,Inchupalla
+95575,210605,Puno,Huancané,Pusi
+95632,210606,Puno,Huancané,Rosaspata
+95689,210607,Puno,Huancané,Taraco
+95746,210608,Puno,Huancané,Vilque Chico
+95803,210701,Puno,Lampa,Lampa
+95860,210702,Puno,Lampa,Cabanilla
+95917,210703,Puno,Lampa,Calapuja
+95974,210704,Puno,Lampa,Nicasio
+96031,210705,Puno,Lampa,Ocuviri
+96087,210706,Puno,Lampa,Palca
+96144,210707,Puno,Lampa,Paratia
+96200,210708,Puno,Lampa,Pucara
+96257,210709,Puno,Lampa,Santa Lucia
+96314,210710,Puno,Lampa,Vilavila
+96368,210801,Puno,Melgar,Ayaviri
+96425,210802,Puno,Melgar,Antauta
+96482,210803,Puno,Melgar,Cupi
+96539,210804,Puno,Melgar,Llalli
+96595,210805,Puno,Melgar,Macari
+96652,210806,Puno,Melgar,Nuñoa
+96709,210807,Puno,Melgar,Orurillo
+96766,210808,Puno,Melgar,Santa Rosa
+96823,210809,Puno,Melgar,Umachiri
+96880,210901,Puno,Moho,Moho
+96937,210902,Puno,Moho,Conima
+96994,210903,Puno,Moho,Huayrapata
+97050,210904,Puno,Moho,Tilali
+97107,211001,Puno,San Antonio de Putina,Putina
+97164,211002,Puno,San Antonio de Putina,Ananea
+97220,211003,Puno,San Antonio de Putina,Pedro Vilca Apaza
+97277,211004,Puno,San Antonio de Putina,Quilcapuncu
+97334,211005,Puno,San Antonio de Putina,Sina
+97385,211101,Puno,San Román,Juliaca
+97442,211102,Puno,San Román,Cabana
+97499,211103,Puno,San Román,Cabanillas
+97556,211104,Puno,San Román,Caracoto
+97613,211105,Puno,San Román,San Miguel
+97670,211201,Puno,Sandia,Sandia
+97727,211202,Puno,Sandia,Cuyocuyo
+97784,211203,Puno,Sandia,Limbani
+97841,211204,Puno,Sandia,Patambuco
+97898,211205,Puno,Sandia,Phara
+97954,211206,Puno,Sandia,Quiaca
+98010,211207,Puno,Sandia,San Juan del Oro
+98067,211208,Puno,Sandia,Yanahuaya
+98123,211209,Puno,Sandia,Alto Inambari
+98180,211210,Puno,Sandia,San Pedro de Putina Punco
+98236,211301,Puno,Yunguyo,Yunguyo
+98293,211302,Puno,Yunguyo,Anapia
+98350,211303,Puno,Yunguyo,Copani
+98407,211304,Puno,Yunguyo,Cuturapi
+98463,211305,Puno,Yunguyo,Ollaraya
+98520,211306,Puno,Yunguyo,Tinicachi
+98577,211307,Puno,Yunguyo,Unicachi
+98634,220101,San Martín,Moyobamba,Moyobamba
+98691,220102,San Martín,Moyobamba,Calzada
+98748,220103,San Martín,Moyobamba,Habana
+98802,220104,San Martín,Moyobamba,Jepelacio
+98859,220105,San Martín,Moyobamba,Soritor
+98916,220106,San Martín,Moyobamba,Yantalo
+98973,220201,San Martín,Bellavista,Bellavista
+99030,220202,San Martín,Bellavista,Alto Biavo
+99087,220203,San Martín,Bellavista,Bajo Biavo
+99144,220204,San Martín,Bellavista,Huallaga
+99200,220205,San Martín,Bellavista,San Pablo
+99257,220206,San Martín,Bellavista,San Rafael
+99313,220301,San Martín,El Dorado,San José de Sisa
+99370,220302,San Martín,El Dorado,Agua Blanca
+99426,220303,San Martín,El Dorado,San Martín
+99483,220304,San Martín,El Dorado,Santa Rosa
+99539,220305,San Martín,El Dorado,Shatoja
+99596,220401,San Martín,Huallaga,Saposoa
+99653,220402,San Martín,Huallaga,Alto Saposoa
+99710,220403,San Martín,Huallaga,El Eslabón
+99767,220404,San Martín,Huallaga,Piscoyacu
+99824,220405,San Martín,Huallaga,Sacanche
+99881,220406,San Martín,Huallaga,Tingo de Saposoa
+99938,220501,San Martín,Lamas,Lamas
+99995,220502,San Martín,Lamas,Alonso de Alvarado
+100052,220503,San Martín,Lamas,Barranquita
+100109,220504,San Martín,Lamas,Caynarachi
+100166,220505,San Martín,Lamas,Cuñumbuqui
+100223,220506,San Martín,Lamas,Pinto Recodo
+100280,220507,San Martín,Lamas,Rumisapa
+100337,220508,San Martín,Lamas,San Roque de Cumbaza
+100391,220509,San Martín,Lamas,Shanao
+100447,220510,San Martín,Lamas,Tabalosos
+100504,220511,San Martín,Lamas,Zapatero
+100561,220601,San Martín,Mariscal Cáceres,Juanjuí
+100618,220602,San Martín,Mariscal Cáceres,Campanilla
+100674,220603,San Martín,Mariscal Cáceres,Huicungo
+100731,220604,San Martín,Mariscal Cáceres,Pachiza
+100788,220605,San Martín,Mariscal Cáceres,Pajarillo
+100845,220701,San Martín,Picota,Picota
+100902,220702,San Martín,Picota,Buenos Aires
+100959,220703,San Martín,Picota,Caspisapa
+101016,220704,San Martín,Picota,Pilluana
+101073,220705,San Martín,Picota,Pucacaca
+101130,220706,San Martín,Picota,San Cristóbal
+101186,220707,San Martín,Picota,San Hilarión
+101243,220708,San Martín,Picota,Shamboyacu
+101300,220709,San Martín,Picota,Tingo de Ponasa
+101356,220710,San Martín,Picota,Tres Unidos
+101413,220801,San Martín,Rioja,Rioja
+101470,220802,San Martín,Rioja,Awajun
+101527,220803,San Martín,Rioja,Elías Soplin Vargas
+101584,220804,San Martín,Rioja,Nueva Cajamarca
+101641,220805,San Martín,Rioja,Pardo Miguel
+101698,220806,San Martín,Rioja,Posic
+101755,220807,San Martín,Rioja,San Fernando
+101811,220808,San Martín,Rioja,Yorongos
+101867,220809,San Martín,Rioja,Yuracyacu
+101924,220901,San Martín,San Martín,Tarapoto
+101981,220902,San Martín,San Martín,Alberto Leveau
+102038,220903,San Martín,San Martín,Cacatachi
+102095,220904,San Martín,San Martín,Chazuta
+102152,220905,San Martín,San Martín,Chipurana
+102208,220906,San Martín,San Martín,El Porvenir
+102264,220907,San Martín,San Martín,Huimbayoc
+102321,220908,San Martín,San Martín,Juan Guerra
+102378,220909,San Martín,San Martín,La Banda de Shilcayo
+102435,220910,San Martín,San Martín,Morales
+102492,220911,San Martín,San Martín,Papaplaya
+102549,220912,San Martín,San Martín,San Antonio
+102606,220913,San Martín,San Martín,Sauce
+102663,220914,San Martín,San Martín,Shapaja
+102720,221001,San Martín,Tocache,Tocache
+102777,221002,San Martín,Tocache,Nuevo Progreso
+102834,221003,San Martín,Tocache,Polvora
+102891,221004,San Martín,Tocache,Shunte
+102945,221005,San Martín,Tocache,Uchiza
+103002,230101,Tacna,Tacna,Tacna
+103059,230102,Tacna,Tacna,Alto de la Alianza
+103116,230103,Tacna,Tacna,Calana
+103173,230104,Tacna,Tacna,Ciudad Nueva
+103230,230105,Tacna,Tacna,Inclan
+103287,230106,Tacna,Tacna,Pachia
+103344,230107,Tacna,Tacna,Palca
+103401,230108,Tacna,Tacna,Pocollay
+103458,230109,Tacna,Tacna,Sama
+103515,230110,Tacna,Tacna,Coronel Gregorio Albarracin Lanchipa
+103572,230111,Tacna,Tacna,La Yarada los Palos
+103629,230201,Tacna,Candarave,Candarave
+103686,230202,Tacna,Candarave,Cairani
+103742,230203,Tacna,Candarave,Camilaca
+103799,230204,Tacna,Candarave,Curibaya
+103856,230205,Tacna,Candarave,Huanuara
+103913,230206,Tacna,Candarave,Quilahuani
+103970,230301,Tacna,Jorge Basadre,Locumba
+104027,230302,Tacna,Jorge Basadre,Ilabaya
+104084,230303,Tacna,Jorge Basadre,Ite
+104138,230401,Tacna,Tarata,Tarata
+104195,230402,Tacna,Tarata,Héroes Albarracín
+104252,230403,Tacna,Tarata,Estique
+104306,230404,Tacna,Tarata,Estique-Pampa
+104361,230405,Tacna,Tarata,Sitajara
+104417,230406,Tacna,Tarata,Susapaya
+104474,230407,Tacna,Tarata,Tarucachi
+104528,230408,Tacna,Tarata,Ticaco
+104585,240101,Tumbes,Tumbes,Tumbes
+104642,240102,Tumbes,Tumbes,Corrales
+104699,240103,Tumbes,Tumbes,La Cruz
+104756,240104,Tumbes,Tumbes,Pampas de Hospital
+104813,240105,Tumbes,Tumbes,San Jacinto
+104870,240106,Tumbes,Tumbes,San Juan de la Virgen
+104927,240201,Tumbes,Contralmirante Villar,Zorritos
+104984,240202,Tumbes,Contralmirante Villar,Casitas
+105041,240203,Tumbes,Contralmirante Villar,Canoas de Punta Sal
+105098,240301,Tumbes,Zarumilla,Zarumilla
+105155,240302,Tumbes,Zarumilla,Aguas Verdes
+105212,240303,Tumbes,Zarumilla,Matapalo
+105268,240304,Tumbes,Zarumilla,Papayal
+105325,250101,Ucayali,Coronel Portillo,Calleria
+105382,250102,Ucayali,Coronel Portillo,Campoverde
+105439,250103,Ucayali,Coronel Portillo,Iparia
+105496,250104,Ucayali,Coronel Portillo,Masisea
+105553,250105,Ucayali,Coronel Portillo,Yarinacocha
+105610,250106,Ucayali,Coronel Portillo,Nueva Requena
+105667,250107,Ucayali,Coronel Portillo,Manantay
+105724,250201,Ucayali,Atalaya,Raymondi
+105781,250202,Ucayali,Atalaya,Sepahua
+105837,250203,Ucayali,Atalaya,Tahuania
+105893,250204,Ucayali,Atalaya,Yurua
+105946,250301,Ucayali,Padre Abad,Padre Abad
+106003,250302,Ucayali,Padre Abad,Irazola
+106060,250303,Ucayali,Padre Abad,Curimana
+106117,250304,Ucayali,Padre Abad,Neshuya
+106173,250305,Ucayali,Padre Abad,Alexander Von Humboldt
+106229,250401,Ucayali,Purús,Purús
